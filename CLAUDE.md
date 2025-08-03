@@ -64,3 +64,7 @@ The project currently has no declared dependencies in `pyproject.toml`, but base
 - Qwen-3 Embedding model for text embeddings
 - scikit-learn for Local Outlier Factor and PCA
 - News API integration (specific API not yet determined)
+
+## Additional Notes
+- Environment Variables are stored in .env and called via python dotenv package
+- 
