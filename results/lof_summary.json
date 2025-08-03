@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-08-03T18:59:12.779520",
+  "summary": {
+    "total_articles": 248,
+    "anomalous_articles": 13,
+    "normal_articles": 235,
+    "anomaly_rate": 0.05241935483870968,
+    "mean_anomaly_score": -1.0389882326126099,
+    "std_anomaly_score": 0.0478777214884758,
+    "min_anomaly_score": -1.2137067317962646,
+    "max_anomaly_score": -0.9824252128601074
+  },
+  "top_anomalies": [
+    {
+      "title": "Vanity Stocks: Apparel Adapting to Shifting Body Sizes",
+      "snippet": "As GLP\u20111 weight-loss drug adoption grows\u00a012\u201315% of U.S. adults are currently or planning to use them\u2014food, wellness and fashion brands are pivoting to address new consumer priorities. Today, we are going to focus on fashion brands.",
+      "url": "https://www.seeitmarket.com/vanity-stocks-apparel-adapting-to-shifting-body-sizes/",
+      "publishedDate": "2025-08-01 07:25:45",
+      "site": "seeitmarket.com",
+      "publisher": "See It Market",
+      "symbol": null,
+      "anomaly_score": -1.2137067317962646,
+      "is_anomaly": true,
+      "rank": 1
+    },
+    {
+      "title": "Figma Stock Price Jumps 250% Thursday After IPO",
+      "snippet": "Figma was founded by Field, a former Thiel Fellow, began working on Figma alongside his Brown University classmate Evan Wallace in 2012, and first launched a closed beta in 2015. Figma offers a suite of design products accessible in web browsers.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2025/07/31/figma-stock-price-jumps-250-thursday-after-ipo/",
+      "publishedDate": "2025-07-31 16:35:06",
+      "site": "forbes.com",
+      "publisher": "Forbes",
+      "symbol": null,
+      "anomaly_score": -1.2023581266403198,
+      "is_anomaly": true,
+      "rank": 2
+    },
+    {
+      "title": "Jaguar stock price fell 17% from \u2018woke' ad to CEO's exit",
+      "snippet": "Jaguar, the iconic British luxury automaker now owned by India's Tata Motors (NSE: TATAMOTORS), has once again found itself at the center of controversy,\u00a0 and this time, investors are reacting.",
+      "url": "https://finbold.com/jaguar-stock-price-fell-17-from-woke-ad-to-ceos-exit/",
+      "publishedDate": "2025-08-01 08:58:08",
+      "site": "finbold.com",
+      "publisher": "Finbold",
+      "symbol": null,
+      "anomaly_score": -1.195708990097046,
+      "is_anomaly": true,
+      "rank": 3
+    },
+    {
+      "title": "Gerdau's adjusted profit falls near 9% in Q2, tariffs boost US operations",
+      "snippet": "Brazilian steelmaker Gerdau on Thursday reported an 8.6% decline in its second-quarter adjusted net profit year-on-year, slightly below analysts' expectations despite stronger performance of North American operations due to U.S. tariffs.",
+      "url": "https://www.reuters.com/business/energy/gerdaus-adjusted-profit-falls-near-9-q2-tariffs-boost-us-operations-2025-07-31/",
+      "publishedDate": "2025-07-31 19:55:28",
+      "site": "reuters.com",
+      "publisher": "Reuters",
+      "symbol": null,
+      "anomaly_score": -1.1626906394958496,
+      "is_anomaly": true,
+      "rank": 4
+    },
+    {
+      "title": "Want To Hedge Against Inflation? Buy A Forest",
+      "snippet": "Invest capital and save the planet at the same time. Own a forest.",
+      "url": "https://www.forbes.com/sites/baldwin/2025/08/01/timberland-real-estate-inflation-hedge-investment-trust/",
+      "publishedDate": "2025-08-01 06:45:05",
+      "site": "forbes.com",
+      "publisher": "Forbes",
+      "symbol": null,
+      "anomaly_score": -1.154478669166565,
+      "is_anomaly": true,
+      "rank": 5
+    },
+    {
+      "title": "SEC's Atkins launches \u2018Project Crypto' to bring U.S. markets on-chain. Here's what you should know.",
+      "snippet": "Paul Atkins, chairman of the U.S. Securities and Exchange Commission, on Thursday announced the launch of \u201cProject Crypto,\u201d a bold and sweeping policy initiative aimed at bringing U.S. financial markets onto the blockchain.",
+      "url": "https://www.marketwatch.com/story/secs-atkins-launches-project-crypto-to-bring-u-s-markets-on-chain-heres-what-you-should-know-30958653",
+      "publishedDate": "2025-07-31 14:30:00",
+      "site": "marketwatch.com",
+      "publisher": "Market Watch",
+      "symbol": null,
+      "anomaly_score": -1.1519466638565063,
+      "is_anomaly": true,
+      "rank": 6
+    },
+    {
+      "title": "How Tariffs Raise Costs for Farmers, Making Food More Expensive",
+      "snippet": "The latest round of tariffs is likely to make agricultural production even more expensive and, potentially, limit access to goods not produced in the United States.",
+      "url": "https://www.nytimes.com/2025/08/01/business/economy/tariffs-agriculture-costs-farmers-consumers.html",
+      "publishedDate": "2025-08-01 13:17:14",
+      "site": "nytimes.com",
+      "publisher": "NYTimes",
+      "symbol": null,
+      "anomaly_score": -1.150341272354126,
+      "is_anomaly": true,
+      "rank": 7
+    },
+    {
+      "title": "How wealthy yacht buyers plan to avoid the European tariffs",
+      "snippet": "How wealthy yacht buyers plan to avoid the European tariffs",
+      "url": "https://www.cnbc.com/2025/07/31/europe-yacht-buyers-tariffs.html",
+      "publishedDate": "2025-07-31 14:45:53",
+      "site": "cnbc.com",
+      "publisher": "CNBC",
+      "symbol": null,
+      "anomaly_score": -1.1466752290725708,
+      "is_anomaly": true,
+      "rank": 8
+    },
+    {
+      "title": "The effort to ban congressional stock trading has a Trump problem",
+      "snippet": "The movement to ban lawmakers from trading stocks just got more complicated. Democrats and Republicans are at odds over whether the bill should include Trump too.",
+      "url": "https://www.businessinsider.com/trump-congressional-stock-trading-ban-hawley-2025-7",
+      "publishedDate": "2025-07-31 16:12:55",
+      "site": "businessinsider.com",
+      "publisher": "Business Insider",
+      "symbol": null,
+      "anomaly_score": -1.1433651447296143,
+      "is_anomaly": true,
+      "rank": 9
+    },
+    {
+      "title": "The build-out of AI infrastructure is costing a fortune, straining companies and capital markets, writes the WSJ's Greg Ip",
+      "snippet": "The build-out of artificial-intelligence infrastructure is costing a fortune, straining companies and capital markets.",
+      "url": "https://www.wsj.com/economy/the-ai-booms-hidden-risk-to-the-economy-731b00d6",
+      "publishedDate": "2025-08-02 22:00:00",
+      "site": "wsj.com",
+      "publisher": "WSJ",
+      "symbol": null,
+      "anomaly_score": -1.140250563621521,
+      "is_anomaly": true,
+      "rank": 10
+    }
+  ],
+  "parameters": {
+    "contamination": 0.05,
+    "n_neighbors": 20,
+    "algorithm": "auto",
+    "metric": "minkowski"
+  }
+}
