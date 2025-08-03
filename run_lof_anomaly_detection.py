@@ -98,7 +98,8 @@ def detect_anomalies(
         contamination=contamination,
         n_neighbors=n_neighbors,
         novelty=False,  # Use outlier detection mode (default)
-        random_state=42
+        random_state=42,
+        metric="cosine"
     )
     
     # Detect anomalies
@@ -126,9 +127,9 @@ def display_results(detector: NewsAnomalyDetector, articles: List[Dict[str, Any]
     print(f"Std Anomaly Score: {summary['std_anomaly_score']:.4f}")
     
     # Display top anomalies
-    top_anomalies = detector.get_top_anomalies(top_k=5)
+    top_anomalies = detector.get_top_anomalies(top_k=10)
     
-    print(f"\n🚨 TOP 5 MOST ANOMALOUS ARTICLES:")
+    print(f"\n🚨 TOP 10 MOST ANOMALOUS ARTICLES:")
     print("-" * 60)
     
     for i, article in enumerate(top_anomalies, 1):
