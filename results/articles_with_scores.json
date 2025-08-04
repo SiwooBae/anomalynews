@@ -7,7 +7,7 @@
     "site": "barrons.com",
     "publisher": "Barrons",
     "symbol": null,
-    "anomaly_score": -1.0179816484451294,
+    "anomaly_score": 1.0212080478668213,
     "is_anomaly": false
   },
   {
@@ -18,7 +18,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -0.9999256134033203,
+    "anomaly_score": 0.9869551658630371,
     "is_anomaly": false
   },
   {
@@ -29,7 +29,18 @@
     "site": "seeitmarket.com",
     "publisher": "See It Market",
     "symbol": null,
-    "anomaly_score": -1.0898534059524536,
+    "anomaly_score": 1.1478928327560425,
+    "is_anomaly": true
+  },
+  {
+    "title": "Trump's firing of BLS commissioner decried as \u2018groundless' and \u2018giving way to authoritarianism'",
+    "snippet": "White House defends firing following worse-than-expected jobs report; Democratic senator says investigation is warranted",
+    "url": "https://www.marketwatch.com/story/trumps-firing-of-bls-commissioner-decried-as-groundless-and-giving-way-to-authoritarianism-b814c81c",
+    "publishedDate": "2025-08-03 16:31:00",
+    "site": "marketwatch.com",
+    "publisher": "Market Watch",
+    "symbol": null,
+    "anomaly_score": 0.9895404577255249,
     "is_anomaly": false
   },
   {
@@ -40,7 +51,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -0.9948335886001587,
+    "anomaly_score": 0.9994252920150757,
     "is_anomaly": false
   },
   {
@@ -51,7 +62,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0307652950286865,
+    "anomaly_score": 1.023707628250122,
     "is_anomaly": false
   },
   {
@@ -62,7 +73,7 @@
     "site": "cnbc.com",
     "publisher": "CNBC",
     "symbol": null,
-    "anomaly_score": -1.0052307844161987,
+    "anomaly_score": 0.9931113123893738,
     "is_anomaly": false
   },
   {
@@ -73,7 +84,7 @@
     "site": "investorplace.com",
     "publisher": "InvestorPlace",
     "symbol": null,
-    "anomaly_score": -1.041388750076294,
+    "anomaly_score": 1.0899478197097778,
     "is_anomaly": false
   },
   {
@@ -84,7 +95,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0170388221740723,
+    "anomaly_score": 1.013456106185913,
     "is_anomaly": false
   },
   {
@@ -95,8 +106,8 @@
     "site": "forbes.com",
     "publisher": "Forbes",
     "symbol": null,
-    "anomaly_score": -1.1080865859985352,
-    "is_anomaly": false
+    "anomaly_score": 1.1975200176239014,
+    "is_anomaly": true
   },
   {
     "title": "Why the latest jobs data is a signaling bigger problems for the economy",
@@ -106,7 +117,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -0.9975260496139526,
+    "anomaly_score": 0.9759531021118164,
     "is_anomaly": false
   },
   {
@@ -117,7 +128,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.009676218032837,
+    "anomaly_score": 1.0081684589385986,
     "is_anomaly": false
   },
   {
@@ -128,7 +139,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0199953317642212,
+    "anomaly_score": 1.0137813091278076,
     "is_anomaly": false
   },
   {
@@ -139,7 +150,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0028020143508911,
+    "anomaly_score": 1.0019400119781494,
     "is_anomaly": false
   },
   {
@@ -150,7 +161,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -1.0606977939605713,
+    "anomaly_score": 1.1361074447631836,
     "is_anomaly": false
   },
   {
@@ -161,8 +172,8 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.0656827688217163,
-    "is_anomaly": false
+    "anomaly_score": 1.1549606323242188,
+    "is_anomaly": true
   },
   {
     "title": "The economy is limping, not booming, and the costs of Trump's tariffs can be seen all over this week's data",
@@ -172,7 +183,7 @@
     "site": "fastcompany.com",
     "publisher": "Fast Company",
     "symbol": null,
-    "anomaly_score": -1.007758378982544,
+    "anomaly_score": 1.0139936208724976,
     "is_anomaly": false
   },
   {
@@ -183,7 +194,7 @@
     "site": "invezz.com",
     "publisher": "Invezz",
     "symbol": null,
-    "anomaly_score": -1.0344197750091553,
+    "anomaly_score": 1.0287202596664429,
     "is_anomaly": false
   },
   {
@@ -194,7 +205,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.0447885990142822,
+    "anomaly_score": 1.1047362089157104,
     "is_anomaly": false
   },
   {
@@ -205,7 +216,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -0.9942343831062317,
+    "anomaly_score": 0.9965308904647827,
     "is_anomaly": false
   },
   {
@@ -216,7 +227,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.0375030040740967,
+    "anomaly_score": 1.0249910354614258,
     "is_anomaly": false
   },
   {
@@ -227,7 +238,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0216399431228638,
+    "anomaly_score": 1.0210210084915161,
     "is_anomaly": false
   },
   {
@@ -238,7 +249,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.140250563621521,
+    "anomaly_score": 1.3248622417449951,
     "is_anomaly": true
   },
   {
@@ -249,7 +260,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.017356038093567,
+    "anomaly_score": 1.0069369077682495,
     "is_anomaly": false
   },
   {
@@ -260,8 +271,8 @@
     "site": "youtube.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.1182053089141846,
-    "is_anomaly": false
+    "anomaly_score": 1.198845624923706,
+    "is_anomaly": true
   },
   {
     "title": "Trump Ousts BLS Chief. What It Means for Investors.",
@@ -271,7 +282,7 @@
     "site": "barrons.com",
     "publisher": "Barrons",
     "symbol": null,
-    "anomaly_score": -1.0145251750946045,
+    "anomaly_score": 1.005818247795105,
     "is_anomaly": false
   },
   {
@@ -282,7 +293,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0088317394256592,
+    "anomaly_score": 1.0446007251739502,
     "is_anomaly": false
   },
   {
@@ -293,7 +304,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0366429090499878,
+    "anomaly_score": 1.034658670425415,
     "is_anomaly": false
   },
   {
@@ -304,7 +315,7 @@
     "site": "finbold.com",
     "publisher": "Finbold",
     "symbol": null,
-    "anomaly_score": -1.0878084897994995,
+    "anomaly_score": 1.0914156436920166,
     "is_anomaly": false
   },
   {
@@ -315,8 +326,8 @@
     "site": "benzinga.com",
     "publisher": "Benzinga",
     "symbol": null,
-    "anomaly_score": -1.0885655879974365,
-    "is_anomaly": false
+    "anomaly_score": 1.2039415836334229,
+    "is_anomaly": true
   },
   {
     "title": "In a dissent not seen in three decades, two Fed governors wanted to cut interest rates and here is why",
@@ -326,7 +337,7 @@
     "site": "foxbusiness.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.0012195110321045,
+    "anomaly_score": 1.0568592548370361,
     "is_anomaly": false
   },
   {
@@ -337,7 +348,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.0222022533416748,
+    "anomaly_score": 1.046480655670166,
     "is_anomaly": false
   },
   {
@@ -348,7 +359,7 @@
     "site": "finbold.com",
     "publisher": "Finbold",
     "symbol": null,
-    "anomaly_score": -1.108198881149292,
+    "anomaly_score": 1.123184084892273,
     "is_anomaly": false
   },
   {
@@ -359,7 +370,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.047228455543518,
+    "anomaly_score": 1.0614373683929443,
     "is_anomaly": false
   },
   {
@@ -370,8 +381,8 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.0789101123809814,
-    "is_anomaly": false
+    "anomaly_score": 1.1412935256958008,
+    "is_anomaly": true
   },
   {
     "title": "Trump official explains what is 'stopping inflation' in the US",
@@ -381,7 +392,7 @@
     "site": "youtube.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.0589790344238281,
+    "anomaly_score": 1.0985640287399292,
     "is_anomaly": false
   },
   {
@@ -392,8 +403,8 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.1060458421707153,
-    "is_anomaly": false
+    "anomaly_score": 1.1580978631973267,
+    "is_anomaly": true
   },
   {
     "title": "A record-setting July for stocks gave way to rough start to August\u2014investors may not be ready for what comes next",
@@ -403,7 +414,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.0303187370300293,
+    "anomaly_score": 1.0304921865463257,
     "is_anomaly": false
   },
   {
@@ -414,7 +425,7 @@
     "site": "youtube.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.004011869430542,
+    "anomaly_score": 1.0001760721206665,
     "is_anomaly": false
   },
   {
@@ -425,7 +436,7 @@
     "site": "fxempire.com",
     "publisher": "FXEmpire",
     "symbol": null,
-    "anomaly_score": -1.0475940704345703,
+    "anomaly_score": 1.038902997970581,
     "is_anomaly": false
   },
   {
@@ -436,7 +447,18 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.0318070650100708,
+    "anomaly_score": 1.018280267715454,
+    "is_anomaly": false
+  },
+  {
+    "title": "John Williams, president of the Federal Reserve Bank of New York, discussed the outlook for the labor market, inflation and interest rates during an interview. Here is a transcript.",
+    "snippet": "John Williams, president of the Federal Reserve Bank of New York, discussed the outlook for the labor market, inflation and interest rates during an interview in New York with Wall Street Journal reporter Nick Timiraos on Friday. Here is a transcript of the interview, lightly edited for clarity and length.",
+    "url": "https://www.wsj.com/economy/central-banking/transcript-new-york-fed-president-john-williams-discusses-the-economic-outlook-95cbbabf",
+    "publishedDate": "2025-08-01 21:04:00",
+    "site": "wsj.com",
+    "publisher": "WSJ",
+    "symbol": null,
+    "anomaly_score": 1.03168785572052,
     "is_anomaly": false
   },
   {
@@ -447,7 +469,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.011842966079712,
+    "anomaly_score": 1.0237390995025635,
     "is_anomaly": false
   },
   {
@@ -458,7 +480,7 @@
     "site": "barrons.com",
     "publisher": "Barrons",
     "symbol": null,
-    "anomaly_score": -1.0284574031829834,
+    "anomaly_score": 1.0141979455947876,
     "is_anomaly": false
   },
   {
@@ -469,7 +491,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -0.9996851682662964,
+    "anomaly_score": 0.9875360727310181,
     "is_anomaly": false
   },
   {
@@ -480,7 +502,7 @@
     "site": "youtube.com",
     "publisher": "Schwab Network",
     "symbol": null,
-    "anomaly_score": -1.0112731456756592,
+    "anomaly_score": 1.005989909172058,
     "is_anomaly": false
   },
   {
@@ -491,7 +513,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -0.9960768818855286,
+    "anomaly_score": 0.9816560745239258,
     "is_anomaly": false
   },
   {
@@ -502,7 +524,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -0.9907846450805664,
+    "anomaly_score": 0.9846013784408569,
     "is_anomaly": false
   },
   {
@@ -513,7 +535,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -1.0262421369552612,
+    "anomaly_score": 1.0283336639404297,
     "is_anomaly": false
   },
   {
@@ -524,7 +546,7 @@
     "site": "youtube.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.0110832452774048,
+    "anomaly_score": 1.0475214719772339,
     "is_anomaly": false
   },
   {
@@ -535,7 +557,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.0116403102874756,
+    "anomaly_score": 1.0076699256896973,
     "is_anomaly": false
   },
   {
@@ -546,7 +568,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.0068110227584839,
+    "anomaly_score": 1.003751516342163,
     "is_anomaly": false
   },
   {
@@ -557,7 +579,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -0.9988307952880859,
+    "anomaly_score": 0.984391987323761,
     "is_anomaly": false
   },
   {
@@ -568,7 +590,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.0027666091918945,
+    "anomaly_score": 0.9853914380073547,
     "is_anomaly": false
   },
   {
@@ -579,7 +601,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -0.9945475459098816,
+    "anomaly_score": 1.0029714107513428,
     "is_anomaly": false
   },
   {
@@ -590,7 +612,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0382840633392334,
+    "anomaly_score": 1.0623704195022583,
     "is_anomaly": false
   },
   {
@@ -601,7 +623,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.0095956325531006,
+    "anomaly_score": 1.0665154457092285,
     "is_anomaly": false
   },
   {
@@ -612,7 +634,7 @@
     "site": "investorplace.com",
     "publisher": "InvestorPlace",
     "symbol": null,
-    "anomaly_score": -0.9825393557548523,
+    "anomaly_score": 0.978304386138916,
     "is_anomaly": false
   },
   {
@@ -623,7 +645,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0403311252593994,
+    "anomaly_score": 1.0607292652130127,
     "is_anomaly": false
   },
   {
@@ -634,7 +656,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.062743902206421,
+    "anomaly_score": 1.043761134147644,
     "is_anomaly": false
   },
   {
@@ -645,7 +667,7 @@
     "site": "theguardian.com",
     "publisher": "The Guardian",
     "symbol": null,
-    "anomaly_score": -0.9985498189926147,
+    "anomaly_score": 0.9831101298332214,
     "is_anomaly": false
   },
   {
@@ -656,7 +678,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -0.9969720840454102,
+    "anomaly_score": 0.9954224824905396,
     "is_anomaly": false
   },
   {
@@ -667,7 +689,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.00536048412323,
+    "anomaly_score": 1.0479551553726196,
     "is_anomaly": false
   },
   {
@@ -678,7 +700,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -0.9901215434074402,
+    "anomaly_score": 0.9965782165527344,
     "is_anomaly": false
   },
   {
@@ -689,7 +711,7 @@
     "site": "barrons.com",
     "publisher": "Barrons",
     "symbol": null,
-    "anomaly_score": -1.0145165920257568,
+    "anomaly_score": 1.0109915733337402,
     "is_anomaly": false
   },
   {
@@ -700,7 +722,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.0090152025222778,
+    "anomaly_score": 1.0042580366134644,
     "is_anomaly": false
   },
   {
@@ -711,7 +733,7 @@
     "site": "youtube.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -1.0004751682281494,
+    "anomaly_score": 1.030875325202942,
     "is_anomaly": false
   },
   {
@@ -722,7 +744,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -0.995552659034729,
+    "anomaly_score": 1.0659887790679932,
     "is_anomaly": false
   },
   {
@@ -733,7 +755,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.062423825263977,
+    "anomaly_score": 1.1054946184158325,
     "is_anomaly": false
   },
   {
@@ -744,7 +766,7 @@
     "site": "foxbusiness.com",
     "publisher": "Fox Business",
     "symbol": null,
-    "anomaly_score": -0.9935533404350281,
+    "anomaly_score": 0.9889246821403503,
     "is_anomaly": false
   },
   {
@@ -755,7 +777,7 @@
     "site": "businessinsider.com",
     "publisher": "Business Insider",
     "symbol": null,
-    "anomaly_score": -1.0138816833496094,
+    "anomaly_score": 1.0676106214523315,
     "is_anomaly": false
   },
   {
@@ -766,7 +788,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -0.9893208742141724,
+    "anomaly_score": 0.992143452167511,
     "is_anomaly": false
   },
   {
@@ -777,7 +799,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.0024248361587524,
+    "anomaly_score": 0.988298773765564,
     "is_anomaly": false
   },
   {
@@ -788,7 +810,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0258241891860962,
+    "anomaly_score": 1.037359356880188,
     "is_anomaly": false
   },
   {
@@ -799,7 +821,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.055890679359436,
+    "anomaly_score": 1.1177098751068115,
     "is_anomaly": false
   },
   {
@@ -810,7 +832,7 @@
     "site": "wsj.com",
     "publisher": "WSJ",
     "symbol": null,
-    "anomaly_score": -1.0695115327835083,
+    "anomaly_score": 1.1380088329315186,
     "is_anomaly": false
   },
   {
@@ -821,7 +843,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.0057895183563232,
+    "anomaly_score": 1.0313345193862915,
     "is_anomaly": false
   },
   {
@@ -832,7 +854,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0485979318618774,
+    "anomaly_score": 1.0581352710723877,
     "is_anomaly": false
   },
   {
@@ -843,7 +865,7 @@
     "site": "cnbc.com",
     "publisher": "CNBC",
     "symbol": null,
-    "anomaly_score": -1.0086032152175903,
+    "anomaly_score": 1.0450496673583984,
     "is_anomaly": false
   },
   {
@@ -854,7 +876,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0542681217193604,
+    "anomaly_score": 1.1035792827606201,
     "is_anomaly": false
   },
   {
@@ -865,7 +887,7 @@
     "site": "seekingalpha.com",
     "publisher": "Seeking Alpha",
     "symbol": null,
-    "anomaly_score": -1.0655207633972168,
+    "anomaly_score": 1.0630966424942017,
     "is_anomaly": false
   },
   {
@@ -876,7 +898,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.0024936199188232,
+    "anomaly_score": 0.9876402020454407,
     "is_anomaly": false
   },
   {
@@ -887,7 +909,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0089019536972046,
+    "anomaly_score": 1.0042229890823364,
     "is_anomaly": false
   },
   {
@@ -898,7 +920,7 @@
     "site": "marketwatch.com",
     "publisher": "Market Watch",
     "symbol": null,
-    "anomaly_score": -1.001446008682251,
+    "anomaly_score": 0.9811874628067017,
     "is_anomaly": false
   },
   {
@@ -909,7 +931,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -1.06742262840271,
+    "anomaly_score": 1.1164928674697876,
     "is_anomaly": false
   },
   {
@@ -920,7 +942,7 @@
     "site": "fastcompany.com",
     "publisher": "Fast Company",
     "symbol": null,
-    "anomaly_score": -1.004957914352417,
+    "anomaly_score": 1.051008939743042,
     "is_anomaly": false
   },
   {
@@ -931,7 +953,7 @@
     "site": "youtube.com",
     "publisher": "Yahoo Finance",
     "symbol": null,
-    "anomaly_score": -1.0287487506866455,
+    "anomaly_score": 1.038251519203186,
     "is_anomaly": false
   },
   {
@@ -942,7 +964,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0509878396987915,
+    "anomaly_score": 1.0612449645996094,
     "is_anomaly": false
   },
   {
@@ -953,7 +975,7 @@
     "site": "youtube.com",
     "publisher": "The Street",
     "symbol": null,
-    "anomaly_score": -1.027437686920166,
+    "anomaly_score": 1.093742847442627,
     "is_anomaly": false
   },
   {
@@ -964,7 +986,7 @@
     "site": "youtube.com",
     "publisher": "Bloomberg Markets and Finance",
     "symbol": null,
-    "anomaly_score": -1.1027308702468872,
+    "anomaly_score": 1.111232876777649,
     "is_anomaly": false
   },
   {
@@ -975,7 +997,7 @@
     "site": "cnbc.com",
     "publisher": "CNBC",
     "symbol": null,
-    "anomaly_score": -0.9938066601753235,
+    "anomaly_score": 0.9872147440910339,
     "is_anomaly": false
   },
   {
@@ -986,7 +1008,7 @@
     "site": "schaeffersresearch.com",
     "publisher": "Schaeffers Research",
     "symbol": null,
-    "anomaly_score": -1.0601732730865479,
+    "anomaly_score": 1.0731937885284424,
     "is_anomaly": false
   },
   {
@@ -997,7 +1019,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -1.0331473350524902,
+    "anomaly_score": 1.023261308670044,
     "is_anomaly": false
   },
   {
@@ -1008,7 +1030,7 @@
     "site": "nypost.com",
     "publisher": "New York Post",
     "symbol": null,
-    "anomaly_score": -0.9824252128601074,
+    "anomaly_score": 0.9856182336807251,
     "is_anomaly": false
   },
   {
@@ -1019,8 +1041,8 @@
     "site": "pymnts.com",
     "publisher": "PYMNTS",
     "symbol": null,
-    "anomaly_score": -1.1175094842910767,
-    "is_anomaly": false
+    "anomaly_score": 1.2375158071517944,
+    "is_anomaly": true
   },
   {
     "title": "Fed has increased likelihood to cut rates in September now, says Oppenheimer's John Stoltzfus",
@@ -1030,7 +1052,7 @@
     "site": "youtube.com",
     "publisher": "CNBC Television",
     "symbol": null,
-    "anomaly_score": -0.9992424249649048,
+    "anomaly_score": 1.0213346481323242,
     "is_anomaly": false
   },
   {
@@ -1041,7 +1063,7 @@
     "site": "barrons.com",
     "publisher": "Barrons",
     "symbol": null,
-    "anomaly_score": -1.0539212226867676,
+    "anomaly_score": 1.0521780252456665,
     "is_anomaly": false
   },
   {
@@ -1052,7 +1074,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -1.150341272354126,
+    "anomaly_score": 1.1797757148742676,
     "is_anomaly": true
   },
   {
@@ -1063,7 +1085,7 @@
     "site": "nytimes.com",
     "publisher": "NYTimes",
     "symbol": null,
-    "anomaly_score": -0.9955822229385376,
+    "anomaly_score": 1.1058121919631958,
     "is_anomaly": false
   },
   {
@@ -1074,1657 +1096,7 @@
     "site": "youtube.com",
     "publisher": "The Street",
     "symbol": null,
-    "anomaly_score": -1.0342161655426025,
-    "is_anomaly": false
-  },
-  {
-    "title": "Canada trade team could quit DC talks after Trump tariffs, says Carney adviser",
-    "snippet": "The Canadian team working on a trade deal with the United States could walk away from talks in the wake of a U.S. decision to impose a 35% tariff on some goods from Canada, an adviser to Prime Minister Mark Carney said on Friday.",
-    "url": "https://www.reuters.com/business/autos-transportation/canada-trade-team-could-quit-dc-talks-after-trump-tariffs-says-carney-adviser-2025-08-01/",
-    "publishedDate": "2025-08-01 13:08:42",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.0404316186904907,
-    "is_anomaly": false
-  },
-  {
-    "title": "Weak jobs data and new tariffs weigh on stocks",
-    "snippet": "The Investment Committee debate the macro setup for stocks as a weak jobs report and new tariffs push the market lower. CNBC's Steve Liesman joins \u2018Halftime Report' to the latest out of the Fed.",
-    "url": "https://www.youtube.com/watch?v=RXlnLtM-gcs",
-    "publishedDate": "2025-08-01 13:07:49",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -0.9905880093574524,
-    "is_anomaly": false
-  },
-  {
-    "title": "Tech Stocks Trace A Negative Pattern; Figmazation Of Momo Crowd; Trump Weaponizes Tariffs",
-    "snippet": "To gain an edge, this is what you need to know today.",
-    "url": "https://www.benzinga.com/general/market-summary/25/08/46803424/tech-stocks-trace-a-negative-pattern-figmazation-of-momo-crowd-trump-weaponizes-tariffs",
-    "publishedDate": "2025-08-01 13:07:08",
-    "site": "benzinga.com",
-    "publisher": "Benzinga",
-    "symbol": null,
-    "anomaly_score": -1.0121018886566162,
-    "is_anomaly": false
-  },
-  {
-    "title": "Earnings Season Is Going Really Well. Don't Overthink It.",
-    "snippet": "Companies are reporting beats time and again\u2014and offering upbeat outlooks. Their reward: big gains from Wall Street.",
-    "url": "https://www.barrons.com/articles/earnings-stocks-ai-profits-sales-33078856",
-    "publishedDate": "2025-08-01 13:06:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.0513622760772705,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump hits Canada, Brazil, and many other trading partners with steep tariffs",
-    "snippet": "U.S. President Donald Trump slapped steep tariffs on exports from dozens of trading partners including Canada, Brazil, India and Taiwan, pressing ahead with his plans to reorder the global economy ahead of a Friday trade deal deadline.",
-    "url": "https://www.fastcompany.com/91378702/trump-hits-canada-brazil-many-other-trading-partners-steep-tariffs",
-    "publishedDate": "2025-08-01 12:38:42",
-    "site": "fastcompany.com",
-    "publisher": "Fast Company",
-    "symbol": null,
-    "anomaly_score": -0.9969807863235474,
-    "is_anomaly": false
-  },
-  {
-    "title": "5 Dividend Stocks With Solid Returns And More Growth Ahead",
-    "snippet": "Sector by sector, U.S. dividend stocks have outperformed so far this year, with historically dividend-friendly industries surpassing those with a more growth-oriented focus.",
-    "url": "https://www.benzinga.com/trading-ideas/movers/25/08/46802043/5-dividend-stocks-with-solid-returns-and-more-growth-ahead",
-    "publishedDate": "2025-08-01 12:33:10",
-    "site": "benzinga.com",
-    "publisher": "Benzinga",
-    "symbol": null,
-    "anomaly_score": -1.1350303888320923,
-    "is_anomaly": true
-  },
-  {
-    "title": "Where is Trump's tariff money going? Here's what he's said and how much has come in.",
-    "snippet": "President Donald Trump calls money from tariffs good news. But collections so far pale in comparison to the government's deficit.",
-    "url": "https://www.marketwatch.com/story/where-is-trumps-tariff-money-going-heres-what-hes-said-and-how-much-has-come-in-fb8854a8",
-    "publishedDate": "2025-08-01 12:25:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0875651836395264,
-    "is_anomaly": false
-  },
-  {
-    "title": "What investors should do as the stock market flashes warnings beyond Trump's tariffs",
-    "snippet": "Also: A bipartisan plan to expand the home supply, an investment income strategy that lowers risk and advice from the Moneyist.",
-    "url": "https://www.marketwatch.com/story/what-investors-should-do-as-the-stock-market-flashes-warnings-beyond-trumps-tariffs-8e282a5c",
-    "publishedDate": "2025-08-01 12:18:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0320160388946533,
-    "is_anomaly": false
-  },
-  {
-    "title": "Stock Market Falls On Trump Tariffs, Jobs Report; Microsoft, Meta, Amazon Also In Focus: Weekly Review",
-    "snippet": "The stock market sold off last week on Trump tariffs and a weak jobs report. Meta Platforms, Microsoft, Apple and Amazon were key earnings.",
-    "url": "https://www.investors.com/news/stock-market-falls-trump-tariffs-jobs-report-microsoft-meta-amazon/",
-    "publishedDate": "2025-08-01 12:15:45",
-    "site": "investors.com",
-    "publisher": "Investors Business Daily",
-    "symbol": null,
-    "anomaly_score": -0.9983714818954468,
-    "is_anomaly": false
-  },
-  {
-    "title": "Roger Ferguson: July jobs report creates 'increased complexity' for the Fed",
-    "snippet": "Former Federal Reserve Vice Chairman Roger Ferguson joins 'Squawk Box' to discuss the July jobs report, impact on the Fed's interest rate decision, rate path outlook, and more.",
-    "url": "https://www.youtube.com/watch?v=XqAMyz-tMTI",
-    "publishedDate": "2025-08-01 12:15:31",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0034308433532715,
-    "is_anomaly": false
-  },
-  {
-    "title": "July jobs report comes in weaker than expected, Trump unveils new round of tariffs",
-    "snippet": "July jobs report comes in below expectations. Non-farm payrolls came in at 73,000 which was much lower than the 104,000 whch was expected.",
-    "url": "https://www.youtube.com/watch?v=sdBOZQBWGwA",
-    "publishedDate": "2025-08-01 12:07:10",
-    "site": "youtube.com",
-    "publisher": "Yahoo Finance",
-    "symbol": null,
-    "anomaly_score": -0.9854043126106262,
-    "is_anomaly": false
-  },
-  {
-    "title": "Fed spearheads effort to ease 'Basel III endgame' capital requirements, Bloomberg News reports",
-    "snippet": "The Federal Reserve has begun developing a new risk-based capital rule aimed at easing the burden on the largest U.S. banks than a Biden-era plan, Bloomberg News reported on Friday, citing people familiar with the matter.",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/fed-spearheads-effort-ease-basel-iii-endgame-capital-requirements-bloomberg-news-2025-08-01/",
-    "publishedDate": "2025-08-01 12:03:19",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.1103368997573853,
-    "is_anomaly": false
-  },
-  {
-    "title": "EU banks can weather recession driven by global trade war, stress test shows",
-    "snippet": "Banks across the European Union are strong enough to weather an economic shock driven by geopolitical and trade tensions, the European Banking Authority said on Friday as it presented the outcome of its latest health check of the sector.",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-banks-can-weather-recession-driven-by-global-trade-war-stress-test-shows-2025-08-01/",
-    "publishedDate": "2025-08-01 12:02:50",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.1308625936508179,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Tariffs Are Here. The Road Ahead Still Isn't Clear.",
-    "snippet": "Even the most fleshed-out trade pacts are light on details, and in some cases there are different interpretations of what was agreed upon.",
-    "url": "https://www.barrons.com/articles/trump-tariffs-trade-cc6a281c",
-    "publishedDate": "2025-08-01 11:58:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.0574477910995483,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump unleashes new tariffs, LSEG CEO talks stock decline",
-    "snippet": "President Trump's latest wave of tariffs hit Canada, Taiwan, and Switzerland, among many more. London Stock Exchange Group CEO David Schwimmer addresses the drop in stock price and why he is confident in the LSEG despite the struggle to attract companies.",
-    "url": "https://www.youtube.com/watch?v=Y9sfHXZGO2U",
-    "publishedDate": "2025-08-01 11:54:14",
-    "site": "youtube.com",
-    "publisher": "Yahoo Finance",
-    "symbol": null,
-    "anomaly_score": -0.9948824644088745,
-    "is_anomaly": false
-  },
-  {
-    "title": "Atlanta Fed president: There is still a lot of strength underlying the labor market",
-    "snippet": "CNBC's Steve Liesman talks with Raphael Bostic, Atlanta Fed president, about his reaction to today's labor report, how he's thinking about inflation, and much more.",
-    "url": "https://www.youtube.com/watch?v=oNziMOy08l0",
-    "publishedDate": "2025-08-01 11:39:38",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.024318814277649,
-    "is_anomaly": false
-  },
-  {
-    "title": "Where the labor market stands after July's surprise jobs report",
-    "snippet": "Kory Kantenga, Head of Economics for the Americas at LinkedIn, details the current state of the labor market. Subscribe | http://t.st/TheStreetTV Earn.",
-    "url": "https://www.youtube.com/watch?v=RG5wbLS7c78",
-    "publishedDate": "2025-08-01 11:36:48",
-    "site": "youtube.com",
-    "publisher": "The Street",
-    "symbol": null,
-    "anomaly_score": -1.0285935401916504,
-    "is_anomaly": false
-  },
-  {
-    "title": "Dow drops 600 points as Trump tariffs, jobs report spook Wall Street",
-    "snippet": "Disappointing employment figures and escalating trade tensions fueled investor anxiety about the economic outlook.",
-    "url": "https://nypost.com/2025/08/01/business/dow-drops-600-points-as-trump-tariffs-jobs-report-spook-wall-street/",
-    "publishedDate": "2025-08-01 11:34:42",
-    "site": "nypost.com",
-    "publisher": "New York Post",
-    "symbol": null,
-    "anomaly_score": -0.9912008047103882,
-    "is_anomaly": false
-  },
-  {
-    "title": "Brusuelas: June and May Revisions \"The Big Chill\" on Labor Market",
-    "snippet": "Joe Brusuelas joins Nicole Petallides at the NYSE with a dampened economic picture for U.S. growth following July's jobs report. He says the downward revisions in June and May sent a \"big chill\" across the labor market.",
-    "url": "https://www.youtube.com/watch?v=cXh9iLsKX44",
-    "publishedDate": "2025-08-01 11:30:31",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -1.0336859226226807,
-    "is_anomaly": false
-  },
-  {
-    "title": "Goldman Sachs' Jan Hatzius: Today's jobs report makes it more likely Fed will cut in September",
-    "snippet": "Jan Hatzius, Goldman Sachs chief economist, joins CNBC's 'Squawk on the Street' to discuss his reaction to today's labor data, expectations for the Federal Reserve's rate policies, and much more.",
-    "url": "https://www.youtube.com/watch?v=bSryAuDvE2g",
-    "publishedDate": "2025-08-01 11:12:49",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -0.9978662729263306,
-    "is_anomaly": false
-  },
-  {
-    "title": "A key question for the Fed will be whether the economy is weakening or whether a recent slowdown in job growth reflects temporary factors",
-    "snippet": "A key question for the Fed will be whether the economy is weakening or whether a recent slowdown in job growth reflects temporary factors.",
-    "url": "https://www.wsj.com/economy/central-banking/cooling-job-market-opens-door-to-september-cut-despite-inflation-jitters-ef424e8a",
-    "publishedDate": "2025-08-01 11:07:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.0232701301574707,
-    "is_anomaly": false
-  },
-  {
-    "title": "Here's where the jobs are in this slowing economy",
-    "snippet": "July's nonfarm payroll report showed growth slowing more than expected, and the unemployment rate rose. Health care and social assistance were largely responsible for the growth seen last month.",
-    "url": "https://www.cnbc.com/2025/08/01/heres-where-the-jobs-are-in-this-slowing-economy.html",
-    "publishedDate": "2025-08-01 11:04:23",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.011818289756775,
-    "is_anomaly": false
-  },
-  {
-    "title": "Is The Everything Rally Vulnerable To Trump's New Tariffs?",
-    "snippet": "President Trump on Thursday announced new tariffs on dozens of countries, marking a resumption of the trade war policies that he originally outlined in April. As of yesterday's 2025 performance data, the major market components around the world were posting gains across the board.",
-    "url": "https://seekingalpha.com/article/4807589-everything-rally-vulnerable-trump-new-tariffs",
-    "publishedDate": "2025-08-01 11:00:00",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -0.9882599711418152,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump steps up attacks on Fed's independence amid interest rates row",
-    "snippet": "US president called on top Fed officials to seize control from chair Jerome Powell if he fails to cut interest rates",
-    "url": "https://www.theguardian.com/business/2025/aug/01/trump-jerome-powell-tariffs-federal-reserve",
-    "publishedDate": "2025-08-01 10:57:27",
-    "site": "theguardian.com",
-    "publisher": "The Guardian",
-    "symbol": null,
-    "anomaly_score": -1.0009616613388062,
-    "is_anomaly": false
-  },
-  {
-    "title": "July Jobs Report: Labor Market Weakens",
-    "snippet": "T",
-    "url": "https://www.forbes.com/sites/harryholzer/2025/08/01/july-jobs-report-labor-market-weakens/",
-    "publishedDate": "2025-08-01 10:57:20",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -0.9913269877433777,
-    "is_anomaly": false
-  },
-  {
-    "title": "Stocks Are Sure to Weather Trump's Tariff Blitz. The Economy May Not.",
-    "snippet": "Forcing already cautious consumers to deal with higher prices as the job market weakens is a dangerous economic mix.",
-    "url": "https://www.barrons.com/articles/stocks-jobs-tariffs-economy-a555677f",
-    "publishedDate": "2025-08-01 10:49:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -0.9990885853767395,
-    "is_anomaly": false
-  },
-  {
-    "title": "Consumer sentiment 61.7 vs 61.8 estimated",
-    "snippet": "CNBC's Rick Santelli joins 'Squawk on the Street' with the latest economic data to cross the tape.",
-    "url": "https://www.youtube.com/watch?v=T9vFF2fWVn8",
-    "publishedDate": "2025-08-01 10:43:55",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0281703472137451,
-    "is_anomaly": false
-  },
-  {
-    "title": "US jobs miss sparks market jitters, fuels bets on September Fed rate cut",
-    "snippet": "US job growth slowed sharply in July, prompting a swift reaction from investors who are now betting the Federal Reserve could cut interest rates as early as September. The Labor Department reported Friday that nonfarm payrolls rose by just 73,000 last month, well below economists' expectations of 104,000.",
-    "url": "https://www.proactiveinvestors.com/companies/news/1075947",
-    "publishedDate": "2025-08-01 10:42:30",
-    "site": "proactiveinvestors.com",
-    "publisher": "Proactive Investors",
-    "symbol": null,
-    "anomaly_score": -0.9962877035140991,
-    "is_anomaly": false
-  },
-  {
-    "title": "Pain trades include the dollar, the Magnificent Seven and 10-year bond yields: strategist",
-    "snippet": "Bank of America's Michael Hartnett sees renewed dollar selling and thinks bond traders would be confounded by 10-year yields at 4%.",
-    "url": "https://www.marketwatch.com/story/pain-trades-include-the-dollar-the-magnificent-seven-and-10-year-bond-yields-strategist-710d48ad",
-    "publishedDate": "2025-08-01 10:39:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.1031908988952637,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump urges Fed board to \u2018assume control' if Jerome Powell doesn't slash rates soon",
-    "snippet": "President Trump took fresh aim at the chairman following the central bank's decision to keep interest rates unchanged.",
-    "url": "https://nypost.com/2025/08/01/business/trump-urges-fed-board-to-assume-control-if-jerome-powell-doesnt-slash-rates-soon/",
-    "publishedDate": "2025-08-01 10:36:29",
-    "site": "nypost.com",
-    "publisher": "New York Post",
-    "symbol": null,
-    "anomaly_score": -1.0053287744522095,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. Factory Activity Continues to Contract",
-    "snippet": "The Institute for Supply Management said its purchasing managers' index of manufacturing activity contracted to 48 in July from 49 in June.",
-    "url": "https://www.wsj.com/economy/u-s-factory-activity-continues-to-contract-8298c7a5",
-    "publishedDate": "2025-08-01 10:36:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.0810918807983398,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump slams Powell as 'moron' and calls for Fed's board to take control of policy moves",
-    "snippet": "President Donald Trump attacked Federal Reserve Chair Jerome Powell on Truth Social, urging the Fed's Board to assume control if Powell refuses demanding immediate interest rate cuts.",
-    "url": "https://www.foxbusiness.com/politics/trump-slams-powell-moron-calls-feds-board-take-control-policy-moves",
-    "publishedDate": "2025-08-01 10:32:48",
-    "site": "foxbusiness.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -1.005764126777649,
-    "is_anomaly": false
-  },
-  {
-    "title": "Big Downward Jobs Revisions Could Be a Warning Sign for the Economy",
-    "snippet": "Employers added far fewer jobs in May and June than previously reported. Such downgrades have historically meant trouble for the labor market.",
-    "url": "https://www.nytimes.com/2025/08/01/business/economy/big-downward-jobs-revisions-could-be-a-warning-sign-for-the-economy.html",
-    "publishedDate": "2025-08-01 10:29:54",
-    "site": "nytimes.com",
-    "publisher": "NYTimes",
-    "symbol": null,
-    "anomaly_score": -1.027449369430542,
-    "is_anomaly": false
-  },
-  {
-    "title": "US Labor Secretary 'Positive' After July Jobs Report",
-    "snippet": "US Labor Secretary Lori Chavez-DeRemer reacts to the July US employment report on \"Bloomberg Open Interest.\" Payrolls\u00a0increased 73,000 in July after the prior two months were revised down by nearly 260,000, according to a Bureau of Labor Statistics report.",
-    "url": "https://www.youtube.com/watch?v=ljSu5CKfyTQ",
-    "publishedDate": "2025-08-01 10:28:48",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.0020688772201538,
-    "is_anomaly": false
-  },
-  {
-    "title": "US adds 73,000 jobs in July, much lower than Wall Street had been expecting",
-    "snippet": "The US added 73,000 jobs in July, a big miss from the 104,000 that economists were expecting. Unemployment also ticked up to 4.2% as estimated.",
-    "url": "https://www.youtube.com/watch?v=t-UR8P6IPHk",
-    "publishedDate": "2025-08-01 10:16:30",
-    "site": "youtube.com",
-    "publisher": "Yahoo Finance",
-    "symbol": null,
-    "anomaly_score": -1.0028002262115479,
-    "is_anomaly": false
-  },
-  {
-    "title": "Fed's Dissenters Were Worried About Jobs. Now We All Are.",
-    "snippet": "It was the first time in more than 30 years that two governors dissented from a monetary-policy decision.",
-    "url": "https://www.barrons.com/articles/fed-bowman-waller-rates-dissent-715b1e5b",
-    "publishedDate": "2025-08-01 10:15:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.056628704071045,
-    "is_anomaly": false
-  },
-  {
-    "title": "\"Ugly Start\" to August, Stocks Fall to Begin New Month",
-    "snippet": "Alex Coffey joins Nicole Petallides to look at Friday's opening bell move to the downside. He points out that August historically has shown weakness, but adds that the July jobs report is likely weighing on the minds of the Fed.",
-    "url": "https://www.youtube.com/watch?v=bt1RUU1ZmuQ",
-    "publishedDate": "2025-08-01 10:08:10",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -1.0279744863510132,
-    "is_anomaly": false
-  },
-  {
-    "title": "Fed's Hammack on Jobs Report, Rate Decision and Powell",
-    "snippet": "Federal Reserve Bank of Cleveland President Beth Hammack reacts to the July US employment report and says she feels confident with the Fed's decision to leave rates unchanged earlier this week. She speaks with Mike McKee on \u201cBloomberg Open Interest.",
-    "url": "https://www.youtube.com/watch?v=dLkny1jTHaI",
-    "publishedDate": "2025-08-01 10:05:12",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.0084248781204224,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. factory sector contracts for 5th straight month in July, ISM shows",
-    "snippet": "A closely-watched index that measures U.S. manufacturing activity fell to 48 in July from 49 in the prior month, according to the Institute for Supply Management on Friday. That's the fifth straight month in contraction.",
-    "url": "https://www.marketwatch.com/story/u-s-factory-sector-contracts-for-5th-straight-month-in-july-ism-shows-0f174329",
-    "publishedDate": "2025-08-01 10:05:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0812108516693115,
-    "is_anomaly": false
-  },
-  {
-    "title": "S&P500 and Nasdaq 100: Forecast Weakens as US Jobs Data Fuels Fed Cut Bets Today",
-    "snippet": "US stocks dip as weak jobs data boosts Fed rate cut odds. S&P500 and Nasdaq retreat, while traders eye economic data for confirmation of easing.",
-    "url": "https://www.fxempire.com/forecasts/article/sp500-and-nasdaq-100-forecast-weakens-as-us-jobs-data-fuels-fed-cut-bets-today-1538066",
-    "publishedDate": "2025-08-01 09:47:11",
-    "site": "fxempire.com",
-    "publisher": "FXEmpire",
-    "symbol": null,
-    "anomaly_score": -1.0100643634796143,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Announces New Global Tariff Rates\u2014As He Pushes Back Start Date Again",
-    "snippet": "Canada is one of the countries not mentioned in Trump's reciprocal tariffs order. In a separate announcement, the White House said Canada will face a 35% tariff rate\u2014up from an earlier 25%\u2014for goods not covered under the United States-Mexico-Canada Agreement (USMCA).",
-    "url": "https://www.forbes.com/sites/siladityaray/2025/08/01/trump-announces-new-global-tariff-rates-as-he-pushes-back-start-date-again/",
-    "publishedDate": "2025-08-01 09:45:10",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.0029098987579346,
-    "is_anomaly": false
-  },
-  {
-    "title": "July Jobs Report Signals September Cut Ahead?",
-    "snippet": "Kevin Hincks dissects the latest labor market data which came in weaker-than-expected. He points out significant revisions to June and May numbers could be weighing on investor sentiment, but could raise the probability of a Fed rate cut in September.",
-    "url": "https://www.youtube.com/watch?v=Y6b6PwZ1pes",
-    "publishedDate": "2025-08-01 09:42:53",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -0.9944086074829102,
-    "is_anomaly": false
-  },
-  {
-    "title": "Unemployment Rose To 4.2% In July As Hiring Fell Sharply",
-    "snippet": "An average of 130,000 jobs added per month this year is the weakest since the January to June period in 2010, as the U.S. economy recovered from the Great Recession. An average of 168,000 jobs were added per month last year, compared to the roughly 400,000-per-month average from 2021 through 2023 as businesses recovered from COVID-19 lockdowns.",
-    "url": "https://www.forbes.com/sites/tylerroush/2025/08/01/unemployment-rose-to-42-in-july-as-hiring-fell-sharply/",
-    "publishedDate": "2025-08-01 09:40:04",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.0321872234344482,
-    "is_anomaly": false
-  },
-  {
-    "title": "EU waits for more Trump orders on sector tariffs like cars",
-    "snippet": "U.S. President Donald Trump's recent executive order only sets out his so-called \"reciprocal\" tariff for the EU at 15% and does not apply to cars and other agreed carve-outs, EU officials said on Friday, adding they expect further more detailed orders to follow.",
-    "url": "https://www.reuters.com/business/autos-transportation/eu-waits-more-trump-orders-sector-tariffs-like-cars-2025-08-01/",
-    "publishedDate": "2025-08-01 09:37:13",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.0189393758773804,
-    "is_anomaly": false
-  },
-  {
-    "title": "A Sniff Of Stagflation Stalls The Rally",
-    "snippet": "Tariff uncertainty is overshadowing AI-driven optimism, with new U.S. tariffs impacting global trade sentiment and weighing on the S&P 500. Core PCE inflation has ended its disinflationary trend, with expectations for it to rise above 3%, discouraging a Fed rate cut in September.",
-    "url": "https://seekingalpha.com/article/4807545-a-sniff-of-stagflation-stalls-the-rally",
-    "publishedDate": "2025-08-01 09:33:29",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0390472412109375,
-    "is_anomaly": false
-  },
-  {
-    "title": "Yes, The Correction Is Here Already",
-    "snippet": "The correction has already begun, with momentum stocks and ARK ETFs showing technical blowoff tops and fading momentum, signaling more downside ahead. Smart money is increasing hedges and buying protection, while retail investors chase rallies, raising the probability of a near-term pullback or correction.",
-    "url": "https://seekingalpha.com/article/4807544-yes-the-correction-is-here-already",
-    "publishedDate": "2025-08-01 09:31:04",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0746675729751587,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. job growth slows to 73,000 in July, less than expected",
-    "snippet": "Nonfarm payroll growth was slower than expected in July and the unemployment rate ticked higher, raising potential trouble signs for the U.S. labor market. Job growth totaled 73,000 for July, above the June total of 14,000 but below even the meager Dow Jones estimate for a gain of 100,000.",
-    "url": "https://www.youtube.com/shorts/YPr6RwNc8Hs",
-    "publishedDate": "2025-08-01 09:30:36",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -0.9986669421195984,
-    "is_anomaly": false
-  },
-  {
-    "title": "Weak Jobs Report Raises Chances of a September Interest Rate Cut",
-    "snippet": "The Federal Reserve held rates steady in July but two governors dissented, saying they had concerns about labor market fragility.",
-    "url": "https://www.nytimes.com/2025/08/01/business/economy/weak-jobs-report-raises-chances-of-a-september-interest-rate-cut.html",
-    "publishedDate": "2025-08-01 09:26:21",
-    "site": "nytimes.com",
-    "publisher": "NYTimes",
-    "symbol": null,
-    "anomaly_score": -0.9935060739517212,
-    "is_anomaly": false
-  },
-  {
-    "title": "S&P500: Euphoria And Bubble Face The New World Reality",
-    "snippet": "The S&P 500 is trading at bubble-like valuations, with euphoric sentiment reminiscent of the 2000 dot-com peak and 2021 meme mania. At the same time, the new global reality is that free trade is replaced with protectionism, which is likely to produce stagflation.",
-    "url": "https://seekingalpha.com/article/4807539-s-and-p500-euphoria-and-bubble-face-the-new-world-reality",
-    "publishedDate": "2025-08-01 09:25:16",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0840256214141846,
-    "is_anomaly": false
-  },
-  {
-    "title": "Wall Street's Most Accurate Analysts Weigh In On 3 Health Care Stocks With Over 3% Dividend Yields",
-    "snippet": "During times of turbulence and uncertainty in the markets, many investors turn to dividend-yielding stocks. These are often companies that have high free cash flows and reward shareholders with a high dividend payout.",
-    "url": "https://www.benzinga.com/news/25/08/46792424/wall-streets-most-accurate-analysts-weigh-in-on-3-health-care-stocks-with-over-3-dividend-yields-4",
-    "publishedDate": "2025-08-01 09:11:27",
-    "site": "benzinga.com",
-    "publisher": "Benzinga",
-    "symbol": null,
-    "anomaly_score": -1.0955479145050049,
-    "is_anomaly": false
-  },
-  {
-    "title": "Can High-Risk Stocks Stay in Gear?",
-    "snippet": "Momentum may be tested this week After bottoming out in early April in response to Trump's first tariff announcement, the S&P 500 has rebounded \u2014 with the riskiest stocks driving the rally. That's a stark turnaround from the start of the year, when equity investors couldn't get enough of the market's steadier low-volatility shares.",
-    "url": "https://www.etftrends.com/etf-strategist-channel/can-high-risk-stocks-stay-gear/",
-    "publishedDate": "2025-08-01 09:06:30",
-    "site": "etftrends.com",
-    "publisher": "ETF Trends",
-    "symbol": null,
-    "anomaly_score": -1.0922552347183228,
-    "is_anomaly": false
-  },
-  {
-    "title": "Why Powell Is Right To Pause Despite Trump's Exasperation",
-    "snippet": "The Fed's decision to keep rates unchanged is justified by strong employment and inflation still above the 2% target. Chair Powell is correctly focused on the Fed's dual mandate: maximum employment and stable prices, with both metrics guiding policy decisions.",
-    "url": "https://seekingalpha.com/article/4807529-why-powell-is-right-to-pause-despite-trumps-exasperation",
-    "publishedDate": "2025-08-01 09:04:43",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0031288862228394,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. added just 73,000 jobs in July and numbers for prior months were revised much lower",
-    "snippet": "CNBC's Rick Santelli joins 'Squawk Box' to break down the July jobs report.",
-    "url": "https://www.youtube.com/watch?v=8S-sZ4GPDNU",
-    "publishedDate": "2025-08-01 08:59:04",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -0.9907383918762207,
-    "is_anomaly": false
-  },
-  {
-    "title": "Switzerland shocked by 39% Trump tariffs. One economist says America isn't the \u2018big market' it used to be.",
-    "snippet": "Switzerland was looking at a 31% tariff rate for its exports to the U.S. That's now 39% barring a further deal, and some are reeling.",
-    "url": "https://www.marketwatch.com/story/switzerland-shocked-by-39-trump-tariffs-one-economist-says-america-isnt-the-big-market-it-used-to-be-417bdc60",
-    "publishedDate": "2025-08-01 08:59:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0297086238861084,
-    "is_anomaly": false
-  },
-  {
-    "title": "Jaguar stock price fell 17% from \u2018woke' ad to CEO's exit",
-    "snippet": "Jaguar, the iconic British luxury automaker now owned by India's Tata Motors (NSE: TATAMOTORS), has once again found itself at the center of controversy,\u00a0 and this time, investors are reacting.",
-    "url": "https://finbold.com/jaguar-stock-price-fell-17-from-woke-ad-to-ceos-exit/",
-    "publishedDate": "2025-08-01 08:58:08",
-    "site": "finbold.com",
-    "publisher": "Finbold",
-    "symbol": null,
-    "anomaly_score": -1.195708990097046,
-    "is_anomaly": true
-  },
-  {
-    "title": "Nasdaq to lead the fall as Trump's new tariffs shock markets, job growth slows",
-    "snippet": "8:45am:\u00a0Job growth slows in July The US economy added just 73,000 jobs in July, far short of the 104,000 economists had expected, pointing to a cooling labor market. The unemployment rate ticked up to 4.2%, in line with forecasts.",
-    "url": "https://www.proactiveinvestors.com/companies/news/1075923",
-    "publishedDate": "2025-08-01 08:58:04",
-    "site": "proactiveinvestors.com",
-    "publisher": "Proactive Investors",
-    "symbol": null,
-    "anomaly_score": -0.9919872283935547,
-    "is_anomaly": false
-  },
-  {
-    "title": "US Adds 73,000 Jobs in July, Unemployment Rate Rises to 4.2%",
-    "snippet": "US job growth cooled as payrolls increased less than expected by 73,000 in July after the prior two months were revised down by nearly 260,000, according to a Bureau of Labor Statistics report out Friday. The jobless rate ticked up to 4.2%.",
-    "url": "https://www.youtube.com/watch?v=_8bpyKURIQ8",
-    "publishedDate": "2025-08-01 08:57:24",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -0.9955275654792786,
-    "is_anomaly": false
-  },
-  {
-    "title": "July's market movers: The biggest winners and losers this month",
-    "snippet": "Ritika Gupta takes a look at some of the month's biggest movers, ahead of the final session of July.",
-    "url": "https://www.youtube.com/watch?v=SUZ_ofzZO5E",
-    "publishedDate": "2025-08-01 08:56:23",
-    "site": "youtube.com",
-    "publisher": "CNBC International TV",
-    "symbol": null,
-    "anomaly_score": -1.0520834922790527,
-    "is_anomaly": false
-  },
-  {
-    "title": "US job growth cooled amid growing economic uncertainty",
-    "snippet": "The Labor Department released its jobs report for July which showed the U.S. economy added 73,000 jobs last month, amid uncertainty around trade and monetary policy.",
-    "url": "https://www.foxbusiness.com/economy/us-jobs-report-july-2025",
-    "publishedDate": "2025-08-01 08:56:15",
-    "site": "foxbusiness.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -0.9957480430603027,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. Added Just 73,000 Jobs In July, Unemployment At 4.2%",
-    "snippet": "The U.S. added just 73,000 jobs in July, reflecting continued cuts in the federal government, while the unemployment rate was largely unchanged at 4.2%. There was job growth in health care and social assistance, while other categories remained flat.",
-    "url": "https://deadline.com/2025/08/job-rate-july-donald-trump-1236476331/",
-    "publishedDate": "2025-08-01 08:43:44",
-    "site": "deadline.com",
-    "publisher": "Deadline",
-    "symbol": null,
-    "anomaly_score": -1.0015531778335571,
-    "is_anomaly": false
-  },
-  {
-    "title": "Fed governors Bowman, Waller explain their dissents, say waiting to cut rates threatens economy",
-    "snippet": "CNBC's Steve Liesman joins 'Squawk Box' with the latest news from the Federal Reserve.",
-    "url": "https://www.youtube.com/watch?v=GjbFbcY8Uz4",
-    "publishedDate": "2025-08-01 08:41:24",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.004474401473999,
-    "is_anomaly": false
-  },
-  {
-    "title": "Top 3 Real Estate Stocks That May Rocket Higher In August",
-    "snippet": "The most oversold stocks in the real estate sector presents an opportunity to buy into undervalued companies.",
-    "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/08/46791130/top-3-real-estate-stocks-that-may-rocket-higher-in-august",
-    "publishedDate": "2025-08-01 08:39:06",
-    "site": "benzinga.com",
-    "publisher": "Benzinga",
-    "symbol": null,
-    "anomaly_score": -1.0863977670669556,
-    "is_anomaly": false
-  },
-  {
-    "title": "US adds 73,000 jobs in July amid economic pressure from Trump's trade war",
-    "snippet": "July jobs growth slowed amid rising signs Trump's tariffs are weighing on trade, prices and hiring",
-    "url": "https://www.theguardian.com/business/2025/aug/01/jobs-report-july-trump-tariffs-trade-war",
-    "publishedDate": "2025-08-01 08:37:20",
-    "site": "theguardian.com",
-    "publisher": "The Guardian",
-    "symbol": null,
-    "anomaly_score": -0.9862685203552246,
-    "is_anomaly": false
-  },
-  {
-    "title": "\"Perpetual Uncertainty\" with Modified Tariffs",
-    "snippet": "Sam Vadas and Diane King Hall begin the new month with a glimpse at the latest whirlwind changes to U.S. tariff trade policy. Pres. Trump modified reciprocal tariffs on dozens of countries ranging from 10% to 41%, but Sam says that markets are seemingly taking it \"pretty well\" amid \"perpetual uncertainty.",
-    "url": "https://www.youtube.com/watch?v=AOSCG1NO8gs",
-    "publishedDate": "2025-08-01 08:36:24",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -1.0263093709945679,
-    "is_anomaly": false
-  },
-  {
-    "title": "EU brands turn to obscure customs clause to soften blow of Trump's tariffs",
-    "snippet": "L'Oreal and a growing number of European fashion and cosmetics companies are exploring use of an obscure, decades-old U.S. customs clause known as the \"First Sale\" rule as a potential way to soften the impact of U.S. President Donald Trump's tariffs.",
-    "url": "https://www.reuters.com/business/eu-brands-turn-obscure-customs-clause-soften-blow-trumps-tariffs-2025-08-01/",
-    "publishedDate": "2025-08-01 08:35:35",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.0736992359161377,
-    "is_anomaly": false
-  },
-  {
-    "title": "The U.S. added a seasonally adjusted 73,000 jobs in July, the Labor Department reported Friday, below the gain of 100,000 jobs economists polled by The Wall Street Journal had expected to see",
-    "snippet": "The unemployment rate rose slightly to 4.2%. July's report comes as policymakers are grappling with competing narratives of the economy.",
-    "url": "https://www.wsj.com/economy/jobs/jobs-report-july-2025-unemployment-economy-8bc3ad8e",
-    "publishedDate": "2025-08-01 08:33:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -0.9965771436691284,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. job growth slows to 73,000 in July, less than expected",
-    "snippet": "Nonfarm payrolls were expected to increase by 100,000 in July, according to the Dow Jones consensus estimate.",
-    "url": "https://www.cnbc.com/2025/08/01/jobs-report-july-2025.html",
-    "publishedDate": "2025-08-01 08:30:52",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.0026476383209229,
-    "is_anomaly": false
-  },
-  {
-    "title": "T. Rowe Price quarterly profit beats estimates on boost from market rally",
-    "snippet": "Asset manager T. Rowe Price beat second-quarter profit expectations on Friday as a rebound in equities boosted its assets under management and softened the hit from outflows.",
-    "url": "https://www.reuters.com/business/t-rowe-price-quarterly-profit-beats-estimates-boost-market-rally-2025-08-01/",
-    "publishedDate": "2025-08-01 08:18:23",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.0924580097198486,
-    "is_anomaly": false
-  },
-  {
-    "title": "Nasdaq to lead the fall as Trump's new tariffs shock markets",
-    "snippet": "8am: Stocks set for sharp fall Wall Street is likely to open sharply lower as August trading gets underway after\u00a0US President Donald Trump signed an executive order outlining a new set of tariffs on the eve of the\u00a0August 1 deadline, including a 35% tariff on Canadian goods, up from 25%.\u00a0 That's taken the spotlight off of earnings from\u00a0Apple Inc (NASDAQ:AAPL, ETR:APC)\u00a0and\u00a0Amazon.com Inc (NASDAQ:AMZN)\u00a0after the closing bell on Thursday.",
-    "url": "https://www.proactiveinvestors.ca/companies/news/1075923",
-    "publishedDate": "2025-08-01 08:16:29",
-    "site": "proactiveinvestors.ca",
-    "publisher": "Proactive Investors",
-    "symbol": null,
-    "anomaly_score": -0.9962016344070435,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. Trade Deadline Triggers Highest Tariff Increase in 2025, Plus the Historical Tariffs that Changed the World",
-    "snippet": "President Trump's self-imposed trade deadline of August 1 has arrived, leading to tariffs on countries that did not finalize bilateral trade agreements with the United States.",
-    "url": "https://247wallst.com/news/2025/08/01/u-s-trade-deadline-triggers-highest-tariff-increase-in-2025-plus-the-historical-tariffs-that-changed-the-world/",
-    "publishedDate": "2025-08-01 08:12:33",
-    "site": "247wallst.com",
-    "publisher": "24/7 Wall Street",
-    "symbol": null,
-    "anomaly_score": -0.9960634112358093,
-    "is_anomaly": false
-  },
-  {
-    "title": "Chart Of The Day: What To Do As Market Concerns Creep In",
-    "snippet": "I am seeing signs of concern creep into today's markets. And by \"markets,\" I don't mean just stocks.",
-    "url": "https://seekingalpha.com/article/4807522-chart-of-day-what-to-do-market-concerns-creep-in",
-    "publishedDate": "2025-08-01 08:05:00",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.082683801651001,
-    "is_anomaly": false
-  },
-  {
-    "title": "Fed governors Bowman, Waller explain their dissents, say waiting to cut rates threatens economy",
-    "snippet": "Two Federal Reserve officials who voted this week against holding a key interest rate in place explained their decisions Friday.",
-    "url": "https://www.cnbc.com/2025/08/01/fed-governors-bowman-waller-explain-their-dissents-say-waiting-to-cut-rates-threatens-economy.html",
-    "publishedDate": "2025-08-01 08:03:10",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.0036810636520386,
-    "is_anomaly": false
-  },
-  {
-    "title": "The two Fed dissenters say worries about labor market led them to push for lower rates",
-    "snippet": "In statements, the two governors explained their historic opposition to holding policy steady.",
-    "url": "https://www.marketwatch.com/story/the-two-fed-dissenters-say-worries-about-labor-market-led-them-to-push-for-lower-rates-c34d2611",
-    "publishedDate": "2025-08-01 08:03:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0187147855758667,
-    "is_anomaly": false
-  },
-  {
-    "title": "Jobs Report: Trump Tariffs Hiring Slump Makes Fed Cut Likely; S&P 500 Futures Fall (Live Coverage)",
-    "snippet": "Slower hiring and a rise in unemployment could put a rate cut firmly in play.",
-    "url": "https://www.investors.com/news/economy/jobs-report-july-fed-rate-cut-trump-tariffs-sp-500/",
-    "publishedDate": "2025-08-01 08:00:39",
-    "site": "investors.com",
-    "publisher": "Investors Business Daily",
-    "symbol": null,
-    "anomaly_score": -0.9837276339530945,
-    "is_anomaly": false
-  },
-  {
-    "title": "Does international trade hurt the U.S., as Trump claims? 6 things to know about tariffs.",
-    "snippet": "There's no connection between bigger trade deficits and slower economic growth.",
-    "url": "https://www.marketwatch.com/story/does-international-trade-hurt-the-u-s-as-trump-claims-6-things-to-know-about-tariffs-666def4d",
-    "publishedDate": "2025-08-01 07:50:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.05830979347229,
-    "is_anomaly": false
-  },
-  {
-    "title": "5 things to know before the stock market opens Friday",
-    "snippet": "Nonfarm payrolls are expected to slow to 100,000 when the July report comes out at 8:30 a.m. ET Stock futures pointed to a lower open on Wall Street as traders digest Trump's latest sweeping tariffs, earnings reports and upcoming U.S. employment data.",
-    "url": "https://www.cnbc.com/2025/08/01/5-things-to-know-before-the-stock-market-opens-friday-august-1.html",
-    "publishedDate": "2025-08-01 07:43:55",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.006223201751709,
-    "is_anomaly": false
-  },
-  {
-    "title": "We've seen how stocks react to White House pressure for low interest rates and a weak dollar \u2014 in October 1987",
-    "snippet": "Market and political environment now is disturbingly similar to conditions preceding the October 1987 crash.",
-    "url": "https://www.marketwatch.com/story/weve-seen-how-stocks-react-to-white-house-pressure-for-low-interest-rates-and-a-weak-dollar-in-october-1987-833d64b0",
-    "publishedDate": "2025-08-01 07:40:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.1178243160247803,
-    "is_anomaly": false
-  },
-  {
-    "title": "Worldwide Exchange: ETF Flows Week of July 28",
-    "snippet": "CNBC's Frank Holland speaks with about Tom Staudt, Ark Investment Management President & COO about the action in ETFs this week",
-    "url": "https://www.youtube.com/watch?v=gzz0QtVtdjc",
-    "publishedDate": "2025-08-01 07:35:51",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.079052209854126,
-    "is_anomaly": false
-  },
-  {
-    "title": "Filling The U.S. Coffers With Cash",
-    "snippet": "Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m.",
-    "url": "https://seekingalpha.com/article/4807487-filling-the-u-s-coffers-with-cash",
-    "publishedDate": "2025-08-01 07:30:27",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.1297807693481445,
-    "is_anomaly": false
-  },
-  {
-    "title": "Stocks Drop as Trump's New Tariffs Weigh on Markets",
-    "snippet": "President Trump's newest barrage of tariffs, major corporate earnings reports and an imminent reading on the U.S. labor market weighed on markets.",
-    "url": "https://www.nytimes.com/2025/08/01/business/economy/trump-tariffs-stock-markets-trade.html",
-    "publishedDate": "2025-08-01 07:29:01",
-    "site": "nytimes.com",
-    "publisher": "NYTimes",
-    "symbol": null,
-    "anomaly_score": -0.9957867860794067,
-    "is_anomaly": false
-  },
-  {
-    "title": "Vanity Stocks: Apparel Adapting to Shifting Body Sizes",
-    "snippet": "As GLP\u20111 weight-loss drug adoption grows\u00a012\u201315% of U.S. adults are currently or planning to use them\u2014food, wellness and fashion brands are pivoting to address new consumer priorities. Today, we are going to focus on fashion brands.",
-    "url": "https://www.seeitmarket.com/vanity-stocks-apparel-adapting-to-shifting-body-sizes/",
-    "publishedDate": "2025-08-01 07:25:45",
-    "site": "seeitmarket.com",
-    "publisher": "See It Market",
-    "symbol": null,
-    "anomaly_score": -1.2137067317962646,
-    "is_anomaly": true
-  },
-  {
-    "title": "CIOs advise calm amid tariffs, say tech remains a strong opportunity",
-    "snippet": "Keith Lerner, Co-Chief Investment Officer at Truist Wealth, and Alan McKnight, CIO at Regions Wealth Management tell \"Worldwide Exchange\" that markets may pull back amid tariff uncertainty, but long-term tech and AI trends remain solid despite seasonal volatility.",
-    "url": "https://www.youtube.com/watch?v=7KpMdfoc29g",
-    "publishedDate": "2025-08-01 07:21:45",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0272858142852783,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump says Powell is a 'moron' and calls for the board to 'assume control' of the Fed, soon after it kept rates steady again",
-    "snippet": "Trump called Fed Chair Jerome Powell a \"moron\" after the central bank held rates steady once again. The president has consistently pressured Powell to cut interest rates since taking office in January.",
-    "url": "https://www.businessinsider.com/trump-slams-fed-chair-jerome-powell-moron-after-rate-decision-2025-8",
-    "publishedDate": "2025-08-01 07:18:51",
-    "site": "businessinsider.com",
-    "publisher": "Business Insider",
-    "symbol": null,
-    "anomaly_score": -1.0032517910003662,
-    "is_anomaly": false
-  },
-  {
-    "title": "3 Sector ETF Types for Different Concentration Risk Tastes",
-    "snippet": "Sector investing has long been a popular approach with many investors, and thanks to ETF product innovation, it's hardly a one-size fits all effort. Aligning access to sectors with personal risk tolerance is easily done these days with different ETFs.",
-    "url": "https://www.etftrends.com/3-sector-etf-types-different-concentration-risk-tastes/",
-    "publishedDate": "2025-08-01 07:05:57",
-    "site": "etftrends.com",
-    "publisher": "ETF Trends",
-    "symbol": null,
-    "anomaly_score": -1.1393063068389893,
-    "is_anomaly": true
-  },
-  {
-    "title": "President Trump announces modified tariff rates for dozens of U.S. trading partners",
-    "snippet": "CNBC's Megan Cassella joins 'Squawk Box' with the latest news.",
-    "url": "https://www.youtube.com/watch?v=qyeoZQpSRQM",
-    "publishedDate": "2025-08-01 06:46:10",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -0.9972521066665649,
-    "is_anomaly": false
-  },
-  {
-    "title": "Want To Hedge Against Inflation? Buy A Forest",
-    "snippet": "Invest capital and save the planet at the same time. Own a forest.",
-    "url": "https://www.forbes.com/sites/baldwin/2025/08/01/timberland-real-estate-inflation-hedge-investment-trust/",
-    "publishedDate": "2025-08-01 06:45:05",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.154478669166565,
-    "is_anomaly": true
-  },
-  {
-    "title": "This trader is sounding the alarm over stocks. Why he's pressing the sell button now.",
-    "snippet": "A summer swoon is likely says The Macro Tourist",
-    "url": "https://www.marketwatch.com/story/this-trader-is-sounding-the-alarm-over-stocks-why-hes-pressing-the-sell-button-now-d7ac93ff",
-    "publishedDate": "2025-08-01 06:42:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0407633781433105,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Unveils New Tariff Regime to Reshape Trade Order",
-    "snippet": "Donald Trump has unveiled a slew of new global tariffs, forging ahead with his turbulent effort to reshape international trade. Canada, Switzerland and some Southeast Asian countries were among the worst hit.",
-    "url": "https://www.youtube.com/shorts/e5GsUgGe-mg",
-    "publishedDate": "2025-08-01 06:18:51",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -0.9905697107315063,
-    "is_anomaly": false
-  },
-  {
-    "title": "Why the Latest Meme Stock Craze Won't Take Down the Overall Market",
-    "snippet": "Krispy Kreme, Opendoor, Rocket and Kohl's are merely the public face of a summer boom in bets by private traders.",
-    "url": "https://www.wsj.com/finance/stocks/meme-stock-market-impact-outlook-5df71ee5",
-    "publishedDate": "2025-08-01 05:30:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.0576915740966797,
-    "is_anomaly": false
-  },
-  {
-    "title": "Is Nasdaq's Peak for 2025 Already In?: 3-Minute MLIV",
-    "snippet": "Guy Johnson, Kriti Gupta, Valerie Tytel and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" Chapters: 00:00:00 - MLIV 00:00:02 - Trump Brazil, Mexico Tariffs 00:01:29 - Dollar Winning Streak, NFP 00:02:04 - US Payrolls Data 00:02:42 - Nasdaq, Meta & Microsoft Earnings -------- More on Bloomberg Television and Markets Like this video?",
-    "url": "https://www.youtube.com/watch?v=D0WBM1uuStg",
-    "publishedDate": "2025-08-01 05:29:01",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.0613927841186523,
-    "is_anomaly": false
-  },
-  {
-    "title": "One Wall Street firm tells investors how to trade the July payrolls data",
-    "snippet": "Citi's analysts scrutinize trading patterns from days when payrolls data are released and find equities generally rally and U.S. Treasurys generally decline",
-    "url": "https://www.marketwatch.com/story/one-wall-street-firm-tells-investors-how-to-trade-the-july-payrolls-data-21bc5585",
-    "publishedDate": "2025-08-01 05:07:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.057769775390625,
-    "is_anomaly": false
-  },
-  {
-    "title": "Euro zone inflation holds steady at higher-than-expected 2% in July",
-    "snippet": "Economists polled by Reuters had expected the figure to hit 1.9%.",
-    "url": "https://www.cnbc.com/2025/08/01/euro-zone-inflation-july-2025.html",
-    "publishedDate": "2025-08-01 05:05:09",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.1127140522003174,
-    "is_anomaly": false
-  },
-  {
-    "title": "Harm or Help? Why Companies Are Battling Tariffs Meant to Benefit Them.",
-    "snippet": "Economists say the way the Trump administration is imposing tariffs is backfiring for some of the businesses they are meant to help.",
-    "url": "https://www.nytimes.com/2025/08/01/business/economy/harm-or-help-why-companies-are-battling-tariffs-meant-to-benefit-them.html",
-    "publishedDate": "2025-08-01 05:00:08",
-    "site": "nytimes.com",
-    "publisher": "NYTimes",
-    "symbol": null,
-    "anomaly_score": -1.0622097253799438,
-    "is_anomaly": false
-  },
-  {
-    "title": "Bitcoin, XRP, Ether Drop. Why Trump Tariffs Are Hitting Cryptos.",
-    "snippet": "Cryptocurrencies fell Friday after new U.S. tariff announcements shook the market.",
-    "url": "https://www.barrons.com/articles/bitcoin-xrp-ether-trump-tariffs-crypto-56eb7bf3",
-    "publishedDate": "2025-08-01 04:54:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.0380752086639404,
-    "is_anomaly": false
-  },
-  {
-    "title": "The Day Ahead: Markets Eye Payrolls, Tariffs, and Mid-Cap Earnings Today",
-    "snippet": "Markets today face key jobs data, fresh U.S. tariffs, and earnings from Wendy's, AMC Networks, and other midcaps ahead of the 12:30 GMT payrolls release.",
-    "url": "https://www.fxempire.com/forecasts/article/the-day-ahead-markets-eye-payrolls-tariffs-and-earnings-today-1538006",
-    "publishedDate": "2025-08-01 04:39:49",
-    "site": "fxempire.com",
-    "publisher": "FXEmpire",
-    "symbol": null,
-    "anomaly_score": -1.0202158689498901,
-    "is_anomaly": false
-  },
-  {
-    "title": "Stock Market Today: Trump Sets New Tariffs for Countries Around the World, Stirring Up Markets",
-    "snippet": "Futures for Dow industrials and S&P 500 fall; Trump delays tariff implementation to Aug. 7",
-    "url": "https://www.wsj.com/livecoverage/jobs-report-today-stock-market-08-01-2025",
-    "publishedDate": "2025-08-01 04:06:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -0.988398551940918,
-    "is_anomaly": false
-  },
-  {
-    "title": "Crypto Stock Slide Drags FinTech IPO Index Down 5%",
-    "snippet": "You know that if a crypto company has a tough week amid the current cryptomania, that the FinTech IPO must have had a bad week as well. And that's the case this week as the FinTech IPO index took a 5.4% tumble this week.",
-    "url": "https://www.pymnts.com/news/fintech-investments/2025/crypto-stock-slide-drags-fintech-ipo-index-down-5percent/",
-    "publishedDate": "2025-08-01 04:00:40",
-    "site": "pymnts.com",
-    "publisher": "PYMNTS",
-    "symbol": null,
-    "anomaly_score": -1.1168385744094849,
-    "is_anomaly": false
-  },
-  {
-    "title": "'Triumphant' Trump poised the US for \u2018really good economic times,' CEO argues",
-    "snippet": "American Majority CEO Ned Ryun considers the impact of President Donald Trump's trade agenda and weighs in on \u2018Russiagate' on \u2018The Bottom Line.' #foxbusiness #news #trump #politics #trade #economy #usa",
-    "url": "https://www.youtube.com/watch?v=7BhL1JFXsCY",
-    "publishedDate": "2025-08-01 04:00:06",
-    "site": "youtube.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -1.1005918979644775,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Demands Pharma Companies to Lower US Prices",
-    "snippet": "US\u00a0President\u00a0Donald Trump\u00a0sent letters to 17 of the world's largest pharmaceutical companies demanding they charge the US what other countries pay for new medicines. In the letters, sent to\u00a0Eli Lilly,\u00a0Novo Nordisk,\u00a0Pfizer and others, Trump insisted companies immediately lower what they charge Medicaid for existing drugs.",
-    "url": "https://www.youtube.com/watch?v=8nv2MXya-cw",
-    "publishedDate": "2025-08-01 03:50:16",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.124747633934021,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Order Pushes Tariffs Start Date To August 7\u2014Here Are The Rates Set For 67 Countries And EU",
-    "snippet": "Canada is one of the countries, not mentioned in Trump's reciprocal tariffs order. In a separate announcement, the White House said Canada will face a 35% tariff rate\u2014up from an earlier 25%\u2014for goods not covered under the United States-Mexico-Canada Agreement (USMCA).",
-    "url": "https://www.forbes.com/sites/siladityaray/2025/08/01/trump-order-pushes-tariffs-start-date-to-august-7-here-are-the-rates-set-for-67-countries-and-eu/",
-    "publishedDate": "2025-08-01 03:35:05",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.0012011528015137,
-    "is_anomaly": false
-  },
-  {
-    "title": "U.S. Stocks Soar To New Highs As Fears Of Bubble Bursting Rise",
-    "snippet": "The S&P 500 hit multiple record highs over the past month, rallying against US policy uncertainty, but experts warn that the market bubble could be reaching bursting point. The bubble-inflating theme now is likely the promise of AI technology, as tech stocks have seen outsize gains in stock prices and valuations.",
-    "url": "https://seekingalpha.com/article/4807336-us-stocks-soar-to-new-highs-bubble-bursting-fears-rise",
-    "publishedDate": "2025-08-01 03:00:00",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0457640886306763,
-    "is_anomaly": false
-  },
-  {
-    "title": "The state of play as Trump signs order imposing new tariffs - but there are more delays",
-    "snippet": "Donald Trump's trade war has been difficult to keep up with, to put it mildly.",
-    "url": "https://news.sky.com/story/us-trade-war-the-state-of-play-as-trump-signs-order-imposing-new-tariffs-but-there-are-more-delays-13404435",
-    "publishedDate": "2025-08-01 02:58:37",
-    "site": "news.sky.com",
-    "publisher": "Skynews",
-    "symbol": null,
-    "anomaly_score": -0.9914320111274719,
-    "is_anomaly": false
-  },
-  {
-    "title": "Investors see few winners as tariff storm lashes global markets",
-    "snippet": "U.S. President Donald Trump's Friday tariff deadline brought little reprieve for markets, with tech stocks in South Korea and Taiwan hit hard as investors fretted over the cost of disrupting global supply chains and the outcome of talks with China.",
-    "url": "https://www.reuters.com/business/retail-consumer/investors-see-few-winners-tariff-storm-lashes-global-markets-2025-08-01/",
-    "publishedDate": "2025-08-01 02:49:10",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -0.994998574256897,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Announces Sweeping Global Tariffs",
-    "snippet": "President\u00a0Donald Trump\u00a0unveiled new tariffs that boosted the average US rate on goods from across the world. Taken together, the result will be higher tariffs on goods from almost all US trading partners.",
-    "url": "https://www.youtube.com/watch?v=rpY58PqCBQ4",
-    "publishedDate": "2025-08-01 01:42:00",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -0.9904797673225403,
-    "is_anomaly": false
-  },
-  {
-    "title": "Dax Index News: Forecast Turns Bearish on Hot Inflation and Fed Rate Cut Doubts",
-    "snippet": "Eurozone inflation and US Jobs Report in focus. Market outlook hinges on soft data to revive dovish bets and lift the DAX from recent losses.",
-    "url": "https://www.fxempire.com/forecasts/article/dax-index-news-forecast-turns-bearish-on-hot-inflation-and-fed-rate-cut-doubts-1537980",
-    "publishedDate": "2025-08-01 01:24:14",
-    "site": "fxempire.com",
-    "publisher": "FXEmpire",
-    "symbol": null,
-    "anomaly_score": -1.104318618774414,
-    "is_anomaly": false
-  },
-  {
-    "title": "Who Are Winners and Losers After Trump's Tariff Deadline?",
-    "snippet": "US President Donald Trump has announced new tariffs, including a 10% global minimum and 15% or higher duties for countries with trade surpluses with the US. Bloomberg TV's Avril Hong breaks down some of the winners and losers are in Asia and across the world.",
-    "url": "https://www.youtube.com/watch?v=HeGsaQ38ayI",
-    "publishedDate": "2025-08-01 00:45:52",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -0.988418459892273,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump doesn't chicken out, he makes deals: BCA Research's Papic on the latest tariffs announcements",
-    "snippet": "Marko Papic of BCA Research says Trump's tariffs is mainly an attempt to try to raise revenue for the U.S.. He also says it is important to focus on second order effects from the tariffs, that is that it will push governments globally to make structural reforms and promote fiscal stimulus.",
-    "url": "https://www.youtube.com/watch?v=LU2WsWk2gBw",
-    "publishedDate": "2025-08-01 00:43:05",
-    "site": "youtube.com",
-    "publisher": "CNBC International TV",
-    "symbol": null,
-    "anomaly_score": -1.023258090019226,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Order Pushes Tariffs Start Date To August 7\u2014Rates Set For 67 Countries And EU",
-    "snippet": "In a statement accompanying the order, the White House said: \u201cPresident Trump is using tariffs as a necessary and powerful tool to put America First after many years of unsustainable trade deficits that threaten our economy and national security.\u201d",
-    "url": "https://www.forbes.com/sites/siladityaray/2025/08/01/trump-order-pushes-tariffs-start-date-to-august-7-rates-set-for-67-countries-and-eu/",
-    "publishedDate": "2025-08-01 00:40:03",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -0.9969310760498047,
-    "is_anomaly": false
-  },
-  {
-    "title": "Hang Seng Index News: Fed Rate Jitters and Weak China PMI Weigh on Bulls",
-    "snippet": "Hang Seng Index slips on weak China PMI and strong US inflation data. Stimulus hopes now key to avoiding a break below the 24,500 support level.",
-    "url": "https://www.fxempire.com/forecasts/article/hang-seng-index-news-fed-rate-jitters-and-weak-china-pmi-weigh-on-bulls-1537970",
-    "publishedDate": "2025-07-31 23:52:10",
-    "site": "fxempire.com",
-    "publisher": "FXEmpire",
-    "symbol": null,
-    "anomaly_score": -1.110161542892456,
-    "is_anomaly": false
-  },
-  {
-    "title": "How Asian countries are reacting to Trump's latest tariffs announcement as deadline looms",
-    "snippet": "U.S. President Donald Trump on Thursday stateside rejigged the so-called \"reciprocal\" tariff rates for several countries, ahead of the Friday deadline announced earlier. Countries that are not listed in the latest order will face an additional duty of 10%, the order said.",
-    "url": "https://www.cnbc.com/2025/08/01/how-asian-countries-are-reacting-to-trumps-latest-tariffs-announcement-as-deadline-looms.html",
-    "publishedDate": "2025-07-31 22:33:05",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -0.9957816004753113,
-    "is_anomaly": false
-  },
-  {
-    "title": "\u2018BAD JOB': Trump launches new attack on Jerome Powell",
-    "snippet": "Sen. Roger Marshall, R-Kan., discusses the Fed's decision to leave interest rates unchanged on 'The Evening Edit.",
-    "url": "https://www.youtube.com/watch?v=L00dUVRVozg",
-    "publishedDate": "2025-07-31 22:00:24",
-    "site": "youtube.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -1.0033466815948486,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump hits dozens more countries with higher tariffs that start Aug. 7",
-    "snippet": "President Donald Trump late Thursday stuck to his Friday deadline for hitting Canada with higher tariffs, but he gave a one-week delay to other trading partners that had received letters from him, while also announcing steeper levies for dozens of other countries.",
-    "url": "https://www.marketwatch.com/story/trump-hits-dozens-more-countries-with-higher-tariffs-that-start-aug-7-33fb23f9",
-    "publishedDate": "2025-07-31 21:54:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -0.9931491613388062,
-    "is_anomaly": false
-  },
-  {
-    "title": "It's Liberation Day III - and from today, dozens of countries will face painful Trump tariffs",
-    "snippet": "It is \"Liberation Day\" III - the third tariff deadline set by Donald Trump.",
-    "url": "https://news.sky.com/story/its-liberation-day-iii-and-from-today-dozens-of-countries-will-face-painful-trump-tariffs-13404875",
-    "publishedDate": "2025-07-31 20:54:38",
-    "site": "news.sky.com",
-    "publisher": "Skynews",
-    "symbol": null,
-    "anomaly_score": -0.9942938685417175,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump escalates Canada tariffs to 35% while setting new tariff rates for dozens of other countries",
-    "snippet": "President Trump signs executive order raising Canada tariff to 35% on Thursday, citing the nation's role in allowing illegal drugs to flow into America.",
-    "url": "https://www.foxbusiness.com/politics/trump-escalates-canada-tariffs-35-while-setting-new-tariff-rates-dozens-other-countries",
-    "publishedDate": "2025-07-31 20:40:54",
-    "site": "foxbusiness.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -0.9972794651985168,
-    "is_anomaly": false
-  },
-  {
-    "title": "FICO CEO Will Lansing goes one-on-one with Jim Cramer",
-    "snippet": "FICO President and CEO Will Lansing joins 'Mad Money' host Jim Cramer to talk quarterly results, competition in the credit monitoring space, trends FICO is seeing in its data, and more.",
-    "url": "https://www.youtube.com/watch?v=Rllw-Wbz1C4",
-    "publishedDate": "2025-07-31 20:21:23",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.1199902296066284,
-    "is_anomaly": false
-  },
-  {
-    "title": "Jim Cramer recaps the slate of Big Tech earnings reported today",
-    "snippet": "'Mad Money' host Jim Cramer the earnings we got out of Big Tech and how they impacted the markets.",
-    "url": "https://www.youtube.com/watch?v=I3UhhwwGVqM",
-    "publishedDate": "2025-07-31 20:16:22",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0359909534454346,
-    "is_anomaly": false
-  },
-  {
-    "title": "Gerdau's adjusted profit falls near 9% in Q2, tariffs boost US operations",
-    "snippet": "Brazilian steelmaker Gerdau on Thursday reported an 8.6% decline in its second-quarter adjusted net profit year-on-year, slightly below analysts' expectations despite stronger performance of North American operations due to U.S. tariffs.",
-    "url": "https://www.reuters.com/business/energy/gerdaus-adjusted-profit-falls-near-9-q2-tariffs-boost-us-operations-2025-07-31/",
-    "publishedDate": "2025-07-31 19:55:28",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.1626906394958496,
-    "is_anomaly": true
-  },
-  {
-    "title": "Trump rejigs tariff rates ahead of deadline, levies 40% duties on all transshipped goods",
-    "snippet": "Trump rejigs tariff rates ahead of deadline, levies 40% duties on all transshipped goods",
-    "url": "https://www.cnbc.com/2025/08/01/trump-rejigs-tariff-rates-ahead-of-deadline-levies-40percent-duties-on-all-transshipped-goods.html",
-    "publishedDate": "2025-07-31 19:49:21",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -0.9940893054008484,
-    "is_anomaly": false
-  },
-  {
-    "title": "Investors are looking past an economic slowdown and focusing on secular growers, says JPM's Yoder",
-    "snippet": "Abigail Yoder, JPMorgan's chief U.S. equity strategist, joins 'Closing Bell' to discuss if market levels make sense, where investors can find opportunity and much more.",
-    "url": "https://www.youtube.com/watch?v=_-E4GQvZ_RM",
-    "publishedDate": "2025-07-31 17:47:26",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.055853247642517,
-    "is_anomaly": false
-  },
-  {
-    "title": "What we know about the Fed's first double dissent in more than 30 years",
-    "snippet": "Our Bloomberg hosts discusses the first double dissent from Fed governors in more than 30 years, after the Federal Open Market Committee's voted to hold rates steady on Wednesday https://bloom.bg/3Uah87P",
-    "url": "https://www.youtube.com/shorts/MScOpfvOKTg",
-    "publishedDate": "2025-07-31 17:43:09",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.031085729598999,
-    "is_anomaly": false
-  },
-  {
-    "title": "Big Tech rallies keep stocks near record highs",
-    "snippet": "Stocks edged higher in afternoon trading on Wall Street Thursday and are hovering around record highs amid rallies for big technology stocks.",
-    "url": "https://www.fastcompany.com/91377894/big-tech-rallies-stocks-record-highs",
-    "publishedDate": "2025-07-31 17:01:50",
-    "site": "fastcompany.com",
-    "publisher": "Fast Company",
-    "symbol": null,
-    "anomaly_score": -1.0525786876678467,
-    "is_anomaly": false
-  },
-  {
-    "title": "Tariffs, Economic Concerns Drag Down Stocks",
-    "snippet": "The S&P 500 fell for the third straight session despite strong earnings from Meta and Microsoft.",
-    "url": "https://www.wsj.com/finance/stocks/tariffs-economic-concerns-drag-down-stocks-c28871dc",
-    "publishedDate": "2025-07-31 16:51:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.0056827068328857,
-    "is_anomaly": false
-  },
-  {
-    "title": "As Trump's deadline hits, here are the countries with trade deals, and those without them",
-    "snippet": "The Trump administration signaled on Thursday afternoon that it will stick with its deadline of Friday for imposing higher tariffs on trading partners that haven't made trade deals with administration officials.",
-    "url": "https://www.marketwatch.com/story/as-trumps-deadline-hits-here-are-the-countries-with-trade-deals-and-those-without-them-dcb935e3",
-    "publishedDate": "2025-07-31 16:48:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.002570390701294,
-    "is_anomaly": false
-  },
-  {
-    "title": "Figma Stock Price Jumps 250% Thursday After IPO",
-    "snippet": "Figma was founded by Field, a former Thiel Fellow, began working on Figma alongside his Brown University classmate Evan Wallace in 2012, and first launched a closed beta in 2015. Figma offers a suite of design products accessible in web browsers.",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2025/07/31/figma-stock-price-jumps-250-thursday-after-ipo/",
-    "publishedDate": "2025-07-31 16:35:06",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.2023581266403198,
-    "is_anomaly": true
-  },
-  {
-    "title": "Opinion | A Few Questions for Aspiring Federal Reserve Chiefs",
-    "snippet": "For starters, should the Fed modify its 2% inflation interpretation of its \u2018price stability' mandate?",
-    "url": "https://www.wsj.com/opinion/a-few-questions-for-aspiring-federal-reserve-chiefs-0b8b969a",
-    "publishedDate": "2025-07-31 16:28:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.0549719333648682,
-    "is_anomaly": false
-  },
-  {
-    "title": "August is historically a bad month for Big Tech stocks. What to expect this year.",
-    "snippet": "As the calendar flips to August, both seasonal trends and macro headwinds are turning less friendly for the high-flying Big Tech stocks.",
-    "url": "https://www.marketwatch.com/story/august-is-historically-a-bad-month-for-big-tech-stocks-what-to-expect-this-year-3fce38c0",
-    "publishedDate": "2025-07-31 16:19:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0414375066757202,
-    "is_anomaly": false
-  },
-  {
-    "title": "Significance of FOMC Rate Pause, Tariff Prices Weighing on Earnings",
-    "snippet": "As equities fade from Thursday's intraday highs, Joe Mazzola (@CharlesSchwab) dissects the reaction to yesterday's FOMC decision to keep rates unchanged as well as Fed Chair Jerome Powell's tonality in his press conference. That combined with the latest PCE data leads Joe to believe that the market \"might not get a cut.",
-    "url": "https://www.youtube.com/watch?v=s9HQr5X9ViA",
-    "publishedDate": "2025-07-31 16:16:40",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -1.0126314163208008,
-    "is_anomaly": false
-  },
-  {
-    "title": "The effort to ban congressional stock trading has a Trump problem",
-    "snippet": "The movement to ban lawmakers from trading stocks just got more complicated. Democrats and Republicans are at odds over whether the bill should include Trump too.",
-    "url": "https://www.businessinsider.com/trump-congressional-stock-trading-ban-hawley-2025-7",
-    "publishedDate": "2025-07-31 16:12:55",
-    "site": "businessinsider.com",
-    "publisher": "Business Insider",
-    "symbol": null,
-    "anomaly_score": -1.1433651447296143,
-    "is_anomaly": true
-  },
-  {
-    "title": "Markets will give megacap tech capex leeway after strong earnings, says Big Technology's Kantrowitz",
-    "snippet": "Requisite Capital's Bryn Talkington, Odyssey Capital's Jason Snipe and Big Technology's Alex Kantrowitz, join 'Closing Bell' to discuss takeaways from tech earnings, if tech companies will overshoot demand and much more.",
-    "url": "https://www.youtube.com/watch?v=Iw0PZRWJnh4",
-    "publishedDate": "2025-07-31 16:03:14",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.05181884765625,
-    "is_anomaly": false
-  },
-  {
-    "title": "Hot Stocks In July: S&P 500 Hits A Record High, Led By Tech And AI",
-    "snippet": "U.S. stocks surged in July, with the S&P 500 and Nasdaq hitting records, led by tech and AI-related sectors. Economic data showed resilience: job growth beat expectations, retail sales were strong, and recession odds have dropped sharply.",
-    "url": "https://seekingalpha.com/article/4806956-hot-stocks-in-july-sp-500-hits-a-record-high-led-by-tech-and-ai",
-    "publishedDate": "2025-07-31 16:00:44",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.0316689014434814,
-    "is_anomaly": false
-  },
-  {
-    "title": "Powell is 'playing with fire' over rate cuts, Gasparino says",
-    "snippet": "'The Big Money Show' reacts to the Federal Reserve's rate decision and the double dissent. #federalreserve #fed #jeromepowell #ratecuts #foxbusiness",
-    "url": "https://www.youtube.com/watch?v=RXiKNhCV7pQ",
-    "publishedDate": "2025-07-31 16:00:16",
-    "site": "youtube.com",
-    "publisher": "Fox Business",
-    "symbol": null,
-    "anomaly_score": -1.0082318782806396,
-    "is_anomaly": false
-  },
-  {
-    "title": "WisdomTree to Buy Ceres Partners, in Expansion Into Private Markets",
-    "snippet": "The asset manager's deal will add $1.85 billion in farmland investments.",
-    "url": "https://www.wsj.com/finance/investing/wisdomtree-to-buy-ceres-partners-in-expansion-into-private-markets-6b03252f",
-    "publishedDate": "2025-07-31 16:00:00",
-    "site": "wsj.com",
-    "publisher": "WSJ",
-    "symbol": null,
-    "anomaly_score": -1.1314045190811157,
-    "is_anomaly": false
-  },
-  {
-    "title": "Brazilian companies react to Trump's tariffs with relief and doubt",
-    "snippet": "Brazilian companies reacted with a mix of relief and doubt after the White House surprised them on Wednesday with a list of nearly 700 exceptions to the 50% tariff U.S. President Donald Trump imposed on the country's exports from August 6.",
-    "url": "https://www.reuters.com/business/aerospace-defense/brazilian-companies-react-trumps-tariffs-with-relief-doubt-2025-07-31/",
-    "publishedDate": "2025-07-31 15:57:21",
-    "site": "reuters.com",
-    "publisher": "Reuters",
-    "symbol": null,
-    "anomaly_score": -1.027697205543518,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Says Aug. 1 Tariff Deadline Won't Move",
-    "snippet": "Alex Conant, partner at Firehouse Strategies, talks about the uncertainty of President Trump's tariff negotiations and how lawmakers are navigating the potential political fallout.",
-    "url": "https://www.youtube.com/watch?v=P0sAGqyIVJM",
-    "publishedDate": "2025-07-31 15:54:47",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -1.0157232284545898,
-    "is_anomaly": false
-  },
-  {
-    "title": "Mexico tariffs paused for 90 days in order to strike trade deal",
-    "snippet": "Mexican President Claudia Sheinbaum said on Thursday that she secured a pause on new tariffs coming into effect and a 90-day period to work on a trade deal in a call with U.S. President Donald Trump.",
-    "url": "https://www.fastcompany.com/91378204/mexico-tariffs-paused-90-days",
-    "publishedDate": "2025-07-31 15:49:01",
-    "site": "fastcompany.com",
-    "publisher": "Fast Company",
-    "symbol": null,
-    "anomaly_score": -1.0092618465423584,
-    "is_anomaly": false
-  },
-  {
-    "title": "AAII Sentiment Survey: Bullish Sentiment Makes A Comeback",
-    "snippet": "Bullish sentiment increased 3.6 percentage points to 40.3%. Neutral sentiment decreased 2.5 percentage points to 26.7%.",
-    "url": "https://seekingalpha.com/article/4807034-aaii-sentiment-survey-bullish-sentiment-makes-a-comeback",
-    "publishedDate": "2025-07-31 15:47:51",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.1283363103866577,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump's tariffs are likely illegal, says Piper Sandler's Andy Laperriere",
-    "snippet": "Andy Laperriere, Piper Sandler, joins 'Power Lunch' to discuss the latest trade headlines and the legality of current trade deals.",
-    "url": "https://www.youtube.com/watch?v=GlS99qIxY1o",
-    "publishedDate": "2025-07-31 15:39:38",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0685571432113647,
-    "is_anomaly": false
-  },
-  {
-    "title": "Shares of heavily shorted stocks have been on a tear lately. Consider this before buying into the rally.",
-    "snippet": "Over time, investors have made more money betting against heavily shorted stocks than betting on them.",
-    "url": "https://www.marketwatch.com/story/shares-of-heavily-shorted-stocks-have-been-on-a-tear-lately-consider-this-before-buying-into-the-rally-40ff72dc",
-    "publishedDate": "2025-07-31 15:39:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.078635573387146,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump Gives Mexico 90-Day Reprieve from Tariffs",
-    "snippet": "President\u00a0Donald Trump\u00a0extended Mexico's current tariff rates for 90 days to allow more time for trade negotiations, again relenting after threatening to raise levies on a major trading partner. Bloomberg's Crayton Harrison reports.",
-    "url": "https://www.youtube.com/watch?v=LU3BcY-ivio",
-    "publishedDate": "2025-07-31 15:18:22",
-    "site": "youtube.com",
-    "publisher": "Bloomberg Markets and Finance",
-    "symbol": null,
-    "anomaly_score": -0.9988886713981628,
-    "is_anomaly": false
-  },
-  {
-    "title": "Figma Stock Price Up Over 200% After IPO",
-    "snippet": "The price for design software developer Figma surged over $109 per share on Thursday after raising over $1.2 billion in an IPO, well over three times the $30-$32 range the company estimated in SEC filings earlier this week\u2014making its 33-year-old CEO Dylan Field a billionaire.",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2025/07/31/figma-stock-price-up-over-200-after-ipo/",
-    "publishedDate": "2025-07-31 14:55:07",
-    "site": "forbes.com",
-    "publisher": "Forbes",
-    "symbol": null,
-    "anomaly_score": -1.1344566345214844,
-    "is_anomaly": true
-  },
-  {
-    "title": "Stocks Keep Fighting a Hawkish Fed. Why That Has Worked.",
-    "snippet": "Hawkish commentary from the central bank isn't derailing the market.",
-    "url": "https://www.barrons.com/articles/stocks-fight-fed-rally-8ede1fde",
-    "publishedDate": "2025-07-31 14:55:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.0860302448272705,
-    "is_anomaly": false
-  },
-  {
-    "title": "How wealthy yacht buyers plan to avoid the European tariffs",
-    "snippet": "How wealthy yacht buyers plan to avoid the European tariffs",
-    "url": "https://www.cnbc.com/2025/07/31/europe-yacht-buyers-tariffs.html",
-    "publishedDate": "2025-07-31 14:45:53",
-    "site": "cnbc.com",
-    "publisher": "CNBC",
-    "symbol": null,
-    "anomaly_score": -1.1466752290725708,
-    "is_anomaly": true
-  },
-  {
-    "title": "APLD Leaps Higher After Earnings, CRWV Lease Deal",
-    "snippet": "Applied Digital (APLD) is still \"losing money on an adjusted basis\" says George Tsilis. But, shares of APLD have surged more than 30% after its 4Q earnings report.",
-    "url": "https://www.youtube.com/watch?v=fRUxaPQB4Ps",
-    "publishedDate": "2025-07-31 14:45:49",
-    "site": "youtube.com",
-    "publisher": "Schwab Network",
-    "symbol": null,
-    "anomaly_score": -1.1254277229309082,
-    "is_anomaly": false
-  },
-  {
-    "title": "How I Learned To Stop Worrying And Love The Market",
-    "snippet": "It's rarely comfortable to invest in stocks, as markets are usually near highs or in downturns, making timing feel stressful. Relying on market highs or lows to guide investment decisions is unwise; these 'comfortable' moments are historically rare.",
-    "url": "https://seekingalpha.com/article/4806990-how-i-learned-to-stop-worrying-and-love-the-market",
-    "publishedDate": "2025-07-31 14:45:45",
-    "site": "seekingalpha.com",
-    "publisher": "Seeking Alpha",
-    "symbol": null,
-    "anomaly_score": -1.113265037536621,
-    "is_anomaly": false
-  },
-  {
-    "title": "SEC's Atkins launches \u2018Project Crypto' to bring U.S. markets on-chain. Here's what you should know.",
-    "snippet": "Paul Atkins, chairman of the U.S. Securities and Exchange Commission, on Thursday announced the launch of \u201cProject Crypto,\u201d a bold and sweeping policy initiative aimed at bringing U.S. financial markets onto the blockchain.",
-    "url": "https://www.marketwatch.com/story/secs-atkins-launches-project-crypto-to-bring-u-s-markets-on-chain-heres-what-you-should-know-30958653",
-    "publishedDate": "2025-07-31 14:30:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.1519466638565063,
-    "is_anomaly": true
-  },
-  {
-    "title": "When Stocks Are Priced for Perfection, It's a Perfect Time to Take Some Profits",
-    "snippet": "Wolfe Research Chief Investment Strategist Chris Senyek notes that the S&P 500 multiple is ahead of the historical average.",
-    "url": "https://www.barrons.com/articles/sp-500-stock-price-profits-9108a462",
-    "publishedDate": "2025-07-31 14:29:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.0390698909759521,
-    "is_anomaly": false
-  },
-  {
-    "title": "10 Dividend Stocks Poised to Outperform",
-    "snippet": "When it comes to dividends, aristocrats offer investors a measure of reassurance.",
-    "url": "https://www.barrons.com/articles/dividend-stocks-exxon-mobil-clorox-5d9ddaa6",
-    "publishedDate": "2025-07-31 14:29:00",
-    "site": "barrons.com",
-    "publisher": "Barrons",
-    "symbol": null,
-    "anomaly_score": -1.104453444480896,
-    "is_anomaly": false
-  },
-  {
-    "title": "Trump's tariffs are a no-win for Americans. Here's what needs to happen now.",
-    "snippet": "The world will move on without the U.S. at the center, and Americans' living standards will suffer.",
-    "url": "https://www.marketwatch.com/story/trumps-tariffs-are-a-no-win-for-americans-heres-what-needs-to-happen-now-19f24b03",
-    "publishedDate": "2025-07-31 14:26:00",
-    "site": "marketwatch.com",
-    "publisher": "Market Watch",
-    "symbol": null,
-    "anomaly_score": -1.0858416557312012,
-    "is_anomaly": false
-  },
-  {
-    "title": "Stay up in quality on secular growth stories, says UBS' Nadia Lovell",
-    "snippet": "Nadia Lovell, UBS senior equity strategist, joins 'The Exchange' to discuss why she believes this rally has staying power.",
-    "url": "https://www.youtube.com/watch?v=Ur-29xjnrR8",
-    "publishedDate": "2025-07-31 14:20:19",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0859686136245728,
-    "is_anomaly": false
-  },
-  {
-    "title": "Jamie Dimon shifts tone on tariffs: 'So far, so good'",
-    "snippet": "JPMorgan CEO Jamie Dimon discusses the economy, his meetings with the president and more.",
-    "url": "https://www.youtube.com/shorts/qxcmnQAlfWU",
-    "publishedDate": "2025-07-31 14:15:06",
-    "site": "youtube.com",
-    "publisher": "CNBC Television",
-    "symbol": null,
-    "anomaly_score": -1.0237175226211548,
+    "anomaly_score": 1.0506564378738403,
     "is_anomaly": false
   }
 ]
